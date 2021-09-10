@@ -22,8 +22,6 @@ title: Pravat Kumar Hati - Core Member, Editor
 
 * Master of Science in Statistics Honours (M.STAT) from Indian Statistical Instititue (ISI), Delhi : 2021 - 2023.
 
-![](https://latex.codecogs.com/gif.latex?%5Cfrac%7Ba%7D%7Bb%7D)
-
 * Bachelor of Science (BSc.) in Statistics Honours from Ramakrishna Mission Residential College, Narendrapur, Kolkata : 2018 - 2021.
 
 ### Research Interests
