@@ -38,7 +38,7 @@ params:
   favicon: /img/infinity-solid.svg
   headingFontFamily: baskerville
   #sans-serif
-  logo: /img/blogophonic-mark-dark.png
+  logo: /img/infinity-solid_logo.png
   mainSections:
     - blog
     - project
