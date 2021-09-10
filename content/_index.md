@@ -12,7 +12,7 @@ images:
 - img/PS_Logo.jpeg
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
+subtitle: God do play with Dice!
 text_align_left: false
 title: Probability Space
 type: home
