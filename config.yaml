@@ -72,7 +72,7 @@ params:
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
-  theme: sky
+  theme: grayscale
   twitter: apreshill
   utterances:
     issue_term: pathname
@@ -103,26 +103,30 @@ menu:
       title: About Blogophonic
       url: /about/
       weight: 1
-    - name: Blog
-      title: Blog
-      url: /blog/
+    - name: The Team
+      title: Team Description
+      url: /team/
       weight: 2
-    - name: Projects
-      title: Project Portfolio
-      url: /project/
-      weight: 3
-    - name: Talks
-      title: Talks
-      url: /talk/
-      weight: 4
-    - name: A collection
-      title: A collection
-      url: /collection/
-      weight: 5
-    - name: Elements
-      title: Element Page
-      url: /elements/
-      weight: 6
+    #- name: Blog
+    # title: Blog
+    #  url: /blog/
+    #  weight: 2
+    #- name: Projects
+    #  title: Project Portfolio
+    #  url: /project/
+    #  weight: 3
+    #- name: Talks
+    #  title: Talks
+    #  url: /talk/
+    #  weight: 4
+    #- name: A collection
+    #  title: A collection
+    #  url: /collection/
+    #  weight: 5
+    #- name: Elements
+    #  title: Element Page
+    #  url: /elements/
+    #  weight: 6
 privacy:
   disqus:
     disable: no
