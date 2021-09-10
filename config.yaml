@@ -56,7 +56,7 @@ params:
     #  url: https://github.com/apreshill/apero
     - icon: envelope
       icon_pack: fas
-      url: https://twitter.com/hashtag/apéro
+      url: mailto:probabilityspace01@gmail.com
     - icon: facebook-square
       icon_pack: fab
       url: https://www.facebook.com/hashtag/ap%C3%A9ro
