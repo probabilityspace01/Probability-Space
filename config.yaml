@@ -51,15 +51,15 @@ params:
     #- icon: github
     #  icon_pack: fab
     #  url: https://github.com/apreshill/apero
+    - icon: envelope-o
+      icon_pack: fab
+      url: https://twitter.com/hashtag/apéro
     - icon: facebook-square
       icon_pack: fab
       url: https://www.facebook.com/hashtag/ap%C3%A9ro
-    - icon: instagram
+    - icon: linkedin-square
       icon_pack: fab
       url: https://www.instagram.com/explore/tags/apero/
-    - icon: twitter
-      icon_pack: fab
-      url: https://twitter.com/hashtag/apéro
     #- icon: impactstory
     #  icon_pack: ai
     #  url: https://impactstory.org/u/0000-0002-8082-1890
