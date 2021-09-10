@@ -34,4 +34,4 @@ title: Spandan Ghoshal - Editor
 
 
 
-### Resume
+### Experiences

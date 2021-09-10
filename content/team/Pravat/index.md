@@ -34,4 +34,4 @@ title: Pravat Kumar Hati - Editor
 
 
 
-### Resume
+### Experiences
