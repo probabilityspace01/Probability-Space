@@ -88,18 +88,18 @@ taxonomies:
   tag: tags
 menu:
   footer:
-    - name: License
-      title: License
-      url: /license/
-      weight: 1
+    #- name: License
+    #  title: License
+    #  url: /license/
+    #  weight: 1
     - name: Contact
       title: Contact form
       url: /contact/
-      weight: 2
-    - name: Contributors
-      title: Contributors
-      url: /contributors/
-      weight: 3
+      weight: 1
+    #- name: Contributors
+    #  title: Contributors
+    #  url: /contributors/
+    #  weight: 3
   header:
     - name: About
       title: About Blogophonic
