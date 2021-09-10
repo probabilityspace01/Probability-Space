@@ -1,20 +1,17 @@
 ---
-author: Eric Anderson
-categories:
-- Theme Features
-- R
-- package
-date: "2019-07-03"
+#author: Pravat Kumar Hati
+#categories:
+#- Theme Features
+#- R
+#- package
+#date: "2019-07-03"
 draft: false
-excerpt: Building this static site generator theme was the first time I used an Atomic
-  (or Functional) CSS system like Tachyons. It’s a design system that provides very
-  small (which means fast) CSS modules that you can use in your HTML.
+excerpt: I am currently pursuing M.STAT from the Indian Statistical Institute, Delhi Center, mainly interested in Bayesian Optimization.
 layout: single
-subtitle: A tachyon /ˈtæki.ɒn/ or tachyonic particle is a hypothetical particle that
-  always moves faster than light.
+subtitle: Loves to learn.
 tags:
 - hugo-site
-title: Tachyons for Style
+title: Pravat Kumar Hati - Editor
 ---
 
 ![Tachyons Logo Script](tachyons-logo-script.png)
