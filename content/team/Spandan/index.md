@@ -20,7 +20,7 @@ title: Spandan Ghoshal - Core Member, Editor
 
 ### Academic Qualifications
 
-* Master of Science in Statistics Honours (M.STAT) from Indian Statistical Instititue (ISI), Delhi : 2021 - 2023.
+* ![](content/team/Spandan/ISI_Logo.svg) Master of Science in Statistics Honours (M.STAT) from Indian Statistical Instititue (ISI), Delhi : 2021 - 2023.
 
 * Bachelor of Science (BSc.) in Statistics Honours from Presidency College, Kolkata : 2018 - 2021.
 

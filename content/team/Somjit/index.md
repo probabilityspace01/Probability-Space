@@ -20,6 +20,8 @@ title: Somjit Roy - Core Member, Editor
 
 ### Academic Qualifications
 
+* MSc. in Computer Science from National Institute of Technology (NIT), Trichy : 2021 - 2023.
+
 * Bachelor of Science (BSc.) in Statistics Honours from St.Xavier's College (Autonomous), Kolkata : 2018 - 2021.
 
 ### Research Interests
