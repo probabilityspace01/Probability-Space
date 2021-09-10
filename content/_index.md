@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Greetings from Probability Space, we have universally and unanimously accepted the fact that Uttaran Chatterjee, from now on would be referred to as GOD - 2.
+description: Here we will be giving all the latest updates about our upcoming events, along with the ongoing projects. Stay tuned !
 image_left: true
 images:
 - img/PS_Logo.jpeg
