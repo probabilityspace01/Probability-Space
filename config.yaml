@@ -48,9 +48,9 @@ params:
   orgName: RStudio
   sharing_image: /img/papillons.jpg
   social:
-    - icon: github
-      icon_pack: fab
-      url: https://github.com/apreshill/apero
+    #- icon: github
+    #  icon_pack: fab
+    #  url: https://github.com/apreshill/apero
     - icon: facebook-square
       icon_pack: fab
       url: https://www.facebook.com/hashtag/ap%C3%A9ro
