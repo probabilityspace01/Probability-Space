@@ -52,13 +52,13 @@ params:
     #  icon_pack: fab
     #  url: https://github.com/apreshill/apero
     - icon: envelope-o
-      icon_pack: fab
+      icon_pack: fas
       url: https://twitter.com/hashtag/apéro
     - icon: facebook-square
       icon_pack: fab
       url: https://www.facebook.com/hashtag/ap%C3%A9ro
     - icon: linkedin-square
-      icon_pack: fab
+      icon_pack: fas
       url: https://www.instagram.com/explore/tags/apero/
     #- icon: impactstory
     #  icon_pack: ai
