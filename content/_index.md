@@ -8,7 +8,7 @@ images:
 - img/PS_Logo.jpeg
 show_action_link: true
 show_social_links: true
-subtitle: God do play with Dice!
+subtitle: God do play Dice!
 text_align_left: false
 title: Probability Space
 type: home
