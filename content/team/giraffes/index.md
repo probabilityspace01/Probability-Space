@@ -4,7 +4,7 @@
 #- Theme Features
 #- R
 #- package
-#date: "2019-07-03"
+date: "2021-09-10"
 draft: false
 excerpt: I am currently pursuing M.STAT from the Indian Statistical Institute, Delhi Center, mainly interested in Bayesian Optimization.
 layout: single
@@ -14,9 +14,7 @@ tags:
 title: Pravat Kumar Hati - Editor
 ---
 
-![Tachyons Logo Script](tachyons-logo-script.png)
-
-## [Tachyons](http://tachyons.io) is a design system that allows you to design gorgeous interfaces in the browser with little effort.
+## Will update accordingly !
 
 ---
 

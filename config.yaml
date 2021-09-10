@@ -106,18 +106,18 @@ menu:
       title: About Blogophonic
       url: /about/
       weight: 1
+    #- name: The Team
+    #  title: Team Description
+    #  url: /team/
+    #  weight: 2
+    #- name: Blog
+    #  title: Blog
+    #  url: /blog/
+    #  weight: 3
     - name: The Team
-      title: Team Description
+      title: The Team
       url: /team/
       weight: 2
-    - name: Blog
-      title: Blog
-      url: /blog/
-      weight: 3
-    - name: Projects
-      title: Project Portfolio
-      url: /project/
-      weight: 4
     #- name: Talks
     #  title: Talks
     #  url: /talk/
