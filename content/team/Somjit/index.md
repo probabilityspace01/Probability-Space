@@ -11,7 +11,7 @@ layout: single
 subtitle: Stat, Math & Code.
 tags:
 - hugo-site
-title: Somjit Roy - Editor
+title: Somjit Roy - Core Member, Editor
 ---
 
 ## To be updated accordingly!

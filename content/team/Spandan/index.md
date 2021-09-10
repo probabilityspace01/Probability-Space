@@ -11,7 +11,7 @@ layout: single
 subtitle: A Statistics Enthusiast.
 tags:
 - hugo-site
-title: Spandan Ghoshal - Editor
+title: Spandan Ghoshal - Core Member, Editor
 ---
 
 ## Will update accordingly !

@@ -11,7 +11,7 @@ layout: single
 subtitle: Loves to learn.
 tags:
 - hugo-site
-title: Pravat Kumar Hati - Editor
+title: Pravat Kumar Hati - Core Member, Editor
 ---
 
 ## Will update accordingly !
