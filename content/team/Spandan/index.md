@@ -1,14 +1,14 @@
 ---
-#author: Pravat Kumar Hati
+#author: Spandan Ghoshal
 #categories:
 #- Theme Features
 #- R
 #- package
 date: "2021-09-10"
 draft: false
-excerpt: An M.STAT student in the Indian Statistical Institute, Delhi Center, mainly interested in .
+excerpt: An M.STAT student in the Indian Statistical Institute, Delhi Center, mainly interested in High Dimensional Data Analysis, Resampling Methods, etc.
 layout: single
-subtitle: Loves to learn.
+subtitle: A Statistics Enthusiast.
 tags:
 - hugo-site
 title: Spandan Ghoshal - Editor
