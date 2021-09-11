@@ -39,7 +39,7 @@ title: X. Spandan Ghoshal - Core Member, Editor
 
 ### Contact
 
-Following are my LinkedIn anb GitHub ID's,
+Following are my LinkedIn and GitHub ID's,
 
 * <a href = "https://www.linkedin.com/in/spandan-ghoshal-809979166/"><i class="fab fa-linkedin-in"></i></a> 
 
