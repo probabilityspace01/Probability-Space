@@ -8,13 +8,13 @@ date: "2021-09-10"
 draft: false
 excerpt: Graduated in Statistics from Narendrapur Ramakrishna Mission (RKRMC), mainly focussing on Theoretical and Applied Probability along with Bayesian Inference and Asymptotics.
 layout: single
-subtitle: An honest learner of Statistics.
+#subtitle: An honest learner of Statistics.
 tags:
 - hugo-site
 title: Y. Uttaran Chatterjee - Secretary
 ---
 
-## To be updated accordingly!
+## An honest learner of Statistics!
 
 ---
 

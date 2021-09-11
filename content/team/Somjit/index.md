@@ -8,13 +8,13 @@ date: "2021-09-10"
 draft: false
 excerpt: A Graduate in Statistics from St.Xaviers's College, Kolkata, having interests in Applied Probability and Statistics including Markov Chains, Design of Experiments, Machine Learning, etc.
 layout: single
-subtitle: Stat, Math & Code.
+#subtitle: Stat, Math & Code.
 tags:
 - hugo-site
 title: W. Somjit Roy - Core Member, Editor
 ---
 
-## To be updated accordingly!
+## Stat, Math & Code!
 
 ---
 
@@ -31,7 +31,6 @@ title: W. Somjit Roy - Core Member, Editor
 
 
 ### Publications
-
 
 
 ### Experiences

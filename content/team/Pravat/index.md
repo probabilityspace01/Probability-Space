@@ -8,13 +8,13 @@ date: "2021-09-10"
 draft: false
 excerpt: I am currently pursuing M.STAT from the Indian Statistical Institute, Delhi Center, mainly interested in Bayesian Optimization.
 layout: single
-subtitle: Loves to learn.
+#subtitle: Loves to learn.
 tags:
 - hugo-site
 title: V. Pravat Kumar Hati - Core Member, Editor
 ---
 
-## Will update accordingly !
+## Loves to Learn!
 
 ---
 

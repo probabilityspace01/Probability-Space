@@ -8,13 +8,13 @@ date: "2021-09-10"
 draft: false
 excerpt: Presently a doctoral candidate in Statistics at University of Wisconsin-Madison, having major interests in Bayesian Inference, Bayesian Non - Parametrics, Probability, etc.
 layout: single
-subtitle: PhD in Statistics.
+#subtitle: PhD in Statistics.
 tags:
 - hugo-site
 title: Z. Soham Ghosh - President
 ---
 
-## Will update accordingly !
+## PhD in Statistics!
 
 ---
 

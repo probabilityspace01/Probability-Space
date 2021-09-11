@@ -8,13 +8,13 @@ date: "2021-09-10"
 draft: false
 excerpt: An M.STAT student in the Indian Statistical Institute, Delhi Center, mainly interested in High Dimensional Data Analysis, Resampling Methods, etc.
 layout: single
-subtitle: A Statistics Enthusiast.
+#subtitle: A Statistics Enthusiast.
 tags:
 - hugo-site
 title: X. Spandan Ghoshal - Core Member, Editor
 ---
 
-## Will update accordingly !
+## A Statistics Enthusiast!
 
 ---
 
