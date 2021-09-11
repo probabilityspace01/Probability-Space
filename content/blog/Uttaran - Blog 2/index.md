@@ -2,7 +2,7 @@
 author: Uttaran Chatterjee
 #categories:
 #- Theme Features
-date: "2021-09-11"
+date: "2021-09-10"
 draft: false
 excerpt:
 title: An Unexpected Correspondence and Some Unfinished Games
