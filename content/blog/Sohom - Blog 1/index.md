@@ -52,7 +52,7 @@ Reiterating **Diaconis'** words, *coincidences occur to all of us*. The birthday
 
 > *In a room of just 23 people, do you know there’s a 50-50 chance of at least two people having the same birthday?*
 
-This amazingly counter-intuitive result is actually called a paradox because our brain hates processing compounding exponents.We expect probabilities to be linear and only consider the scenarios we’re involved in.
+This amazingly counter-intuitive result is actually called a paradox because our brain hates processing compounding exponents.We expect probabilities to be linear and only consider the scenarios we are involved in.
 
 Let's investigate the case for **N** people and **C** categories.(We consider days as categories here, i.e. *C = 365*).
 
@@ -76,13 +76,13 @@ Voila! there’s almost a 99.9% chance of at least two people matching.
 
 ![](P2.png)
 
-The Birthday paradox has turned tables in cryptography and in a more generic sense applies to hash functions: the expected number of N-bit hashes that can be generated before getting a collision is not ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Csmall%202%5EN), but rather only ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Csmall%202%5E%5Cfrac%7BN%7D%7B2%7D). This is exploited by [`birthday attacks`](https://en.wikipedia.org/wiki/Birthday_attack) on [`hash functions`](https://en.wikipedia.org/wiki/Hash_function).
+The Birthday paradox has turned tables in cryptography and in a more generic sense applies to hash functions: the expected number of N-bit hashes that can be generated before getting a collision is not ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Csmall%202%5EN), but rather only ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Csmall%202%5E%5Cfrac%7BN%7D%7B2%7D). This is exploited by [`birthday attacks`] https://en.wikipedia.org/wiki/Birthday_attack on [`hash functions`] https://en.wikipedia.org/wiki/Hash_function.
 
-### Something to think about!
+### A Dice yet to Roll!
 
 Let's think of an extension to the Birthday Problem. Suppose there are two types of people, say m men and n women. Then find the probability of no shared birthdays between at least one man and one woman.
 
-> A possible hint : You will require [`Stirling Numbers of the second kind`](https://en.wikipedia.org/wiki/Stirling_numbers_of_the_second_kind).
+> A possible hint : You will require [`Stirling Numbers of the second kind`] https://en.wikipedia.org/wiki/Stirling_numbers_of_the_second_kind.
 
 You may also use the Birthday problem to study multiple coincidences. As an example, how large should N be to have approximately even odds of a triple birthday match?
 
