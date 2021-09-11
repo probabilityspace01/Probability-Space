@@ -24,12 +24,6 @@ title: W. Somjit Roy - Core Member, Editor
 
 * Bachelor of Science (BSc.) in Statistics Honours from St.Xavier's College (Autonomous), Kolkata : 2018 - 2021.
 
-# Research Interests
-# Projects
-# Publications
-
-
-### Experiences
 
 ### Contact
 

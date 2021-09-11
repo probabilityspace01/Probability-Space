@@ -24,12 +24,6 @@ title: V. Pravat Kumar Hati - Core Member, Editor
 
 * Bachelor of Science (BSc.) in Statistics Honours from Ramakrishna Mission Residential College, Narendrapur, Kolkata : 2018 - 2021.
 
-# Research Interests
-# Projects
-# Publications
-# Experiences
-
-
 ### Contact
 
 Link to my LinkedIn,

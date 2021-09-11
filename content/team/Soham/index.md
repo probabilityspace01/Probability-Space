@@ -26,11 +26,6 @@ title: Z. Soham Ghosh - President
 
 * Bachelor of Science (BSc.) in Statistics Honours from Ramakrishna Mission Residential College, Narendrapur, Kolkata : 2016 - 2019.
 
-# Research Interests
-# Projects
-# Publications
-# Experiences
-
 ### Contact
 
 Connect with me on LinkedIn,

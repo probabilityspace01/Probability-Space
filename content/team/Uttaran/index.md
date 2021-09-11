@@ -22,11 +22,6 @@ title: Y. Uttaran Chatterjee - Secretary
 
 * Bachelor of Science (BSc.) in Statistics Honours from Ramakrishna Mission Residential College, Narendrapur, Kolkata : 2016 - 2019.
 
-# Research Interests
-# Projects
-# Publications
-# Experiences
-
 ### Contact
 
 Connect me through LinkedIn and Email,
