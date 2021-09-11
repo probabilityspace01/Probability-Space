@@ -75,7 +75,7 @@ params:
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
-  theme: grayscale
+  theme: sky
   twitter: apreshill
   utterances:
     issue_term: pathname
