@@ -35,3 +35,10 @@ title: V. Pravat Kumar Hati - Core Member, Editor
 
 
 ### Experiences
+
+
+### Contact
+
+Link to my LinkedIn,
+
+* <a href = "https://www.linkedin.com/in/pravat-kumar-hati-817b3619a/"><i class="fab fa-linkedin-in"></i></a> 

@@ -37,3 +37,9 @@ title: Z. Soham Ghosh - President
 
 
 ### Experiences
+
+### Contact
+
+Connect with me on LinkedIn,
+
+* <a href = "https://www.linkedin.com/in/soham-ghosh-9a312a131/"><i class="fab fa-linkedin-in"></i></a> 

@@ -33,3 +33,11 @@ title: Y. Uttaran Chatterjee - Secretary
 
 
 ### Experiences
+
+### Contact
+
+Connect me through LinkedIn and Email,
+
+* <a href = "https://www.linkedin.com/in/uttaran-chatterjee-44831218b/"><i class="fab fa-linkedin-in"></i></a> 
+
+* <a href = mailto:uttaranart97@gmail.com><i class="fas fa-envelope"></i></a>
