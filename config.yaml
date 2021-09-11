@@ -49,7 +49,7 @@ params:
   orgLocal: Team
   orgName: Probability Space
   #RStudio
-  sharing_image: /img/papillons.jpg
+  #sharing_image: /img/papillons.jpg
   social:
     #- icon: github
     #  icon_pack: fab
@@ -75,7 +75,7 @@ params:
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
-  theme: sky
+  theme: grayscale
   twitter: apreshill
   utterances:
     issue_term: pathname
