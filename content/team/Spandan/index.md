@@ -24,17 +24,10 @@ title: X. Spandan Ghoshal - Core Member, Editor
 
 * Bachelor of Science (BSc.) in Statistics Honours from Presidency College, Kolkata : 2018 - 2021.
 
-### Research Interests
-
-
-### Projects
-
-
-### Publications
-
-
-
-### Experiences
+#Research Interests
+#Projects
+#Publications
+#Experiences
 
 
 ### Contact
