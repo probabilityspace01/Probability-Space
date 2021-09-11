@@ -110,8 +110,8 @@ menu:
     #  title: Team Description
     #  url: /team/
     #  weight: 2
-    - name: ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B300%7D%20%5Csmall%20%5Csigma) Field
-      title: ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B300%7D%20%5Csmall%20%5Csigma) Field
+    - name: Sigma Field
+      title: Sigma Field
       url: /blog/
       weight: 2
     - name: The Team

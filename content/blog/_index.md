@@ -19,7 +19,7 @@ sidebar:
   description: "This is a fully featured blogs and posts corners that uplifts and showcases innovative ideas, concepts and writings concerned to Probability and Statistics."
   show_sidebar_adunit: true
   text_link_url: /index.xml
-  title: Sigma Field
+  title: ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B300%7D%20%5Csmall%20%5Csigma) Field
 thumbnail_left: true
 title: A Corner for Blogs and Posts
 ---
