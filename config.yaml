@@ -112,7 +112,7 @@ menu:
     #  weight: 2
     - name: Sigma Field
       title: Sigma Field
-      url: /sigmafield_blog/
+      url: /blog/
       weight: 2
     - name: The Team
       title: The Team
