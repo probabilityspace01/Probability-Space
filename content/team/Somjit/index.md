@@ -40,4 +40,4 @@ title: W. Somjit Roy - Core Member, Editor
 
 You can feel free to connect through **Email** as well as **LinkedIn**, the links to which are provided below,
 
-* <i class="fab fa-linkedin-in"></i>
+* <a href = "https://www.linkedin.com/in/somjit-r-6b0965114/"><i class="fab fa-linkedin-in"></i></a> 
