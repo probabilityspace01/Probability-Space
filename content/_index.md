@@ -5,7 +5,7 @@
 description: Here we will be giving all the latest updates about our upcoming events, along with the ongoing projects. Stay tuned !
 image_left: true
 images:
-- img/PS_Logo.jpeg
+- img/PS_Logo.png
 show_action_link: true
 show_social_links: true
 subtitle: God do play Dice!
