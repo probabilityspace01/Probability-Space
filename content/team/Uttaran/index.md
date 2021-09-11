@@ -11,7 +11,7 @@ layout: single
 subtitle: An honest learner of Statistics.
 tags:
 - hugo-site
-title: Uttaran Chatterjee - Secretary
+title: Y. Uttaran Chatterjee - Secretary
 ---
 
 ## To be updated accordingly!

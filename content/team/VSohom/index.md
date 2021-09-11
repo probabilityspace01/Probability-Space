@@ -11,7 +11,7 @@ layout: single
 subtitle: PhD in Statistics.
 tags:
 - hugo-site
-title: X. Soham Ghosh - President
+title: Z. Soham Ghosh - President
 ---
 
 ## Will update accordingly !
