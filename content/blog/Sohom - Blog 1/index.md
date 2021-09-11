@@ -52,50 +52,6 @@ Reiterating **Diaconis'** words, *coincidences occur to all of us*. The birthday
 
 > *In a room of just 23 people, do you know there’s a 50-50 chance of at least two people having the same birthday?*
 
-This amazingly counter-intuitive result is actually called a paradox because our brain hates processing compounding exponents.We expect probabilities to be linear and only consider the scenarios we are involved in.
-
-Let's investigate the case for **N** people and **C** categories.(We consider days as categories here, i.e. *C = 365*).
-
-We make a few assumptions before tackling this. First of all we assume the birth of all individuals to be independent of each other(i.e. we drop the cases of twins) and for simplicity, we assume a non-leap year, which means we only deal with 365 days.
-
-So, we basically have **N** people, each independently and uniformly distributed in **{1,2,..,C}**.
-
-Now, if **N = C+1**, is there a chance that all these numbers are distinct? Of course not . (Simply by the **Pigeon Hole Principle**)
-
-Call the chance of all these numbers being distinct as **P(C,N)**.
-
-So, see that, ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Csmall%20P%28C%2CN%29%20%3D%201%281-%5Cfrac%7B1%7D%7BC%7D%29%281-%5Cfrac%7B2%7D%7BC%7D%29...%281-%5Cfrac%7BN-1%7D%7BC%7D%29).
-
-For a simpler approximation, for, ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Csmall%20N%20%3D%201.2%5Csqrt%7BC%7D), the chance of success is close to ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Csmall%20%5Cfrac%7B1%7D%7B2%7D).
-
-The basis of this approximation is rooted in this proposition that when **N** and **C** are large and ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Csmall%20%5Cfrac%7BN%5E%7B%5Cfrac%7B2%7D%7B3%7D%7D%7D%7BC%7D) is small, the chance of no match is **P(C,N)** ~ ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Csmall%20e%5E%7B-%5Cfrac%7BN%28N-1%29%7D%7B2C%7D%7D).
-
-So, guess what if **N = 75** and **C = 365**?
-
-Voila! there’s almost a 99.9% chance of at least two people matching.
-
-![](P2.png)
-
-The Birthday paradox has turned tables in cryptography and in a more generic sense applies to hash functions: the expected number of N-bit hashes that can be generated before getting a collision is not ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Csmall%202%5EN), but rather only ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Csmall%202%5E%5Cfrac%7BN%7D%7B2%7D). This is exploited by [`birthday attacks`] https://en.wikipedia.org/wiki/Birthday_attack on [`hash functions`] https://en.wikipedia.org/wiki/Hash_function.
-
-### A Dice yet to Roll!
-
-Let's think of an extension to the Birthday Problem. Suppose there are two types of people, say m men and n women. Then find the probability of no shared birthdays between at least one man and one woman.
-
-> A possible hint : You will require [`Stirling Numbers of the second kind`] https://en.wikipedia.org/wiki/Stirling_numbers_of_the_second_kind.
-
-You may also use the Birthday problem to study multiple coincidences. As an example, how large should N be to have approximately even odds of a triple birthday match?
-
-Till then, keep learning, keep thinking and keep innovating!
-
-### References
-
-> *Great Ideas About Chance - Persi Diaconis, Brian Skyrms*
-
-> *Feynman's Lectures on Probability*
-
-> *Mathematical Recreations and Essays- Ball & Coxeter*
-
 
 
 
