@@ -90,11 +90,11 @@ Till then, keep learning, keep thinking and keep innovating!
 
 ### References
 
-> * *Great Ideas About Chance - Persi Diaconis, Brian Skyrms*
+> *Great Ideas About Chance - Persi Diaconis, Brian Skyrms*
 
-> * *Feynman's Lectures on Probability*
+> *Feynman's Lectures on Probability*
 
-> * *Mathematical Recreations and Essays- Ball & Coxeter*
+> *Mathematical Recreations and Essays- Ball & Coxeter*
 
 
 
