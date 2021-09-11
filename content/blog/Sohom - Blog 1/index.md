@@ -31,4 +31,13 @@ The idea was to line up the feet of 16 people as they emerged from the church,as
 
 ![](P1.png)
 
+The various folks have different foot lengths, but an implicit averaging effect was accepted by a group, even though the explicit term "average" was non-existent at that time.
+
+However, there is an objection. There is a kind of circularity involved in the process. We are defining length, but we are already assuming that our standard remains the same length as we step off the distance.
+
+Eventually, we refine our notion of length.Your foot may change length;so may the rod; so may the standard meter stick, at a fine enough precision.We refine the measurement of length using physics.The circularity is real, but it indicates a path for refinement rather than a fatal objection.
+
+The same thing happens with probability. To measure probability, we first find or make **equally probable** cases and then count them.
+
+We speak of probability only for observations that we contemplate being made in the future. By the “probability” of a particular outcome of an observation we mean our estimate for the most likely fraction of a number of repeated observations that will yield that particular outcome. If we imagine repeating an observation—such as looking at a freshly tossed coin — **N** times, and if we call ![](https://latex.codecogs.com/gif.latex?N_A) our estimate of the most likely number of our observations that will give some specified result A, say the result “heads,” then by ![](https://latex.codecogs.com/gif.latex?%5Cmathbb%7BP%7D%28A%29), the probability of observing A, we mean ![](https://latex.codecogs.com/gif.latex?%5Cmathbb%7BP%7D%28A%29%3D%5Cfrac%7BN_A%7D%7BN%7D).
 
