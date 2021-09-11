@@ -42,4 +42,4 @@ You can feel free to connect through **Email** as well as **LinkedIn**, the link
 
 * <a href = "https://www.linkedin.com/in/somjit-r-6b0965114/"><i class="fab fa-linkedin-in"></i></a> 
 
-* <a href = mailto:somjit.roy2001@gmail.com><<i class="fas fa-envelope"></i>></i></a>
+* <a href = mailto:somjit.roy2001@gmail.com><i class="fas fa-envelope"></i>></i></a>
