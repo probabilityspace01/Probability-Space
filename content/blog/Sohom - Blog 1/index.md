@@ -39,7 +39,17 @@ Eventually, we refine our notion of length.Your foot may change length;so may th
 
 The same thing happens with probability. To measure probability, we first find or make **equally probable** cases and then count them.
 
-We speak of probability only for observations that we contemplate being made in the future. By the “probability” of a particular outcome of an observation we mean our estimate for the most likely fraction of a number of repeated observations that will yield that particular outcome. If we imagine repeating an observation—such as looking at a freshly tossed coin — **N** times, and if we call ![](https://latex.codecogs.com/gif.latex?N_A) our estimate of the most likely number of our observations that will give some specified result A, say the result “heads,” then by ![](https://latex.codecogs.com/gif.latex?%5Cmathbb%7BP%7D%28A%29), the probability of observing A, we mean ![](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Csmall%20%5Cmathbb%7BP%7D%28A%29%3D%5Cfrac%7BN_A%7D%7BN%7D).
+We speak of probability only for observations that we contemplate being made in the future. By the “probability” of a particular outcome of an observation we mean our estimate for the most likely fraction of a number of repeated observations that will yield that particular outcome. If we imagine repeating an observation—such as looking at a freshly tossed coin — **N** times, and if we call ![](https://latex.codecogs.com/gif.latex?N_A) our estimate of the most likely number of our observations that will give some specified result A, say the result “heads,” then by ![](https://latex.codecogs.com/gif.latex?%5Cmathbb%7BP%7D%28A%29), the probability of observing A, we mean ![](https://latex.codecogs.com/gif.latex?%5Cmathbb%7BP%7D%28A%29%3D%5Cfrac%7BN_A%7D%7BN%7D).
+
+First of all, we may speak of a probability of something happening only if the occurrence is a possible outcome of some repeatable observation.
+
+We should emphasize that **N** and ![](https://latex.codecogs.com/gif.latex?N_A)  are not intended to represent numbers based on actual observations. ![](https://latex.codecogs.com/gif.latex?N_A)  is our best estimate of what would occur in **N**  imagined observations. Probability depends, therefore, on our knowledge and on our ability to make estimates. In effect, on our common sense! Fortunately, there is a certain amount of agreement in the common sense of many things, so that different people will make the same estimate. Probabilities need not, however, be **“absolute”** numbers. Since they depend on our ignorance, they may become different if our knowledge changes.
+
+### The Birthday Paradox
+
+Reiterating **Diaconis'** words, *coincidences occur to all of us*. The birthday paradox has emerged as a useful tool to enable standards of surprise.
+
+>> In a room of just 23 people, do you know there’s a 50-50 chance of at least two people having the same birthday ?
 
 
 
