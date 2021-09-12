@@ -112,7 +112,10 @@ $$\mathbb{P}(X_{n+1} = 1 | S_n = n) \propto \frac{1}{n+2}$$
 
 Now, one can verify that, our normalizing constant, \\(\mathbb{P}(S_n) = n\\) is \\(\frac{1}{n+1}\\). Use, **Law of Total Probability over 0<p<1**, using the prior density of **p**. Hence, finally, Laplace got,
 
-$$\mathbb{P}(X_{n+1} = 1 | S_n = n) = \frac{n+1}{n+2}$$. Hence the chance of the sun rising tomorrow when it has risen, past **n** days is **n+1** out of **n+2**. 
+$$\mathbb{P}(X_{n+1} = 1 | S_n = n) = \frac{n+1}{n+2}$$. 
+
+Hence the chance of the sun rising tomorrow when it has risen, past **n** days is **n+1** out of **n+2**. 
+
 Now, the solution to the guessing problem is also a matter of assessing the same arguments, which I leave in the hands of the reader, to find out. Another thing to note here, that Laplace, was the first called this conditional probability as likelihood, which became a quite important part of literature in Bayesian inference.
 
 This principle, then went on to be known as the "Laplace Law of Succession". The rationale behind the nomenclature is, that with the information about the outcome of every trial, one can update the information about the chances of the success, in a successive order. Just like Thomas Bayes updated his information about the position of his read ball relative to the position of each black ball rolled on the billiard table.
