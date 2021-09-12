@@ -17,7 +17,7 @@ show_post_thumbnail: true
 sidebar:
   author: The Probability Space Team @probabilityspace01
   description: "This is a fully featured blogs and posts corner that uplifts and showcases innovative ideas, concepts and writings concerned to Probability and Statistics."
-  show_sidebar_adunit: true
+  show_sidebar_adunit: false
   text_link_url: /index.xml
   title: Sigma Field
 thumbnail_left: true
