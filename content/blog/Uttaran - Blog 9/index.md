@@ -84,11 +84,11 @@ So, we need,
 
 $$\mathbb{P}(X_{n+1} = 1 | X_1 = 1, X_2 = 1, ..., X_n = 1)$$
 
-which is precisely, \\(\mathbb{P}(X_{n+1} | S_n = n\\).
+which is precisely, \\(\mathbb{P}(X_{n+1} | S_n = n)\\).
 
 Laplace's principle was, **The probability of a cause** (*success in the next trial*) **given an event** (*past n trials all resulted in success*) **is proportional to the probability of the event, given the cause**. Which is mathematically,
 
-$$\mathbb{P}(X_{n+1} = 1 | S_n = n) \prop \mathbb{P}(S_n = n | X_{n+1} = 1)\mathbb{P}(X_{n+1} = 1)$$
+$$\mathbb{P}(X_{n+1} = 1 | S_n = n) \propto \mathbb{P}(S_n = n | X_{n+1} = 1)\mathbb{P}(X_{n+1} = 1)$$
 
 Now, see that the event of success in next trial can occur with probability **p** that we don't yet know, and wish to know. So, with \\(X_{n+1} = 1\\) we are actually claiming the chance of success is **p**, which is **uniformly distributed within (0,1)**. So, now the question is what a should be the constant of proportionality?? Laplace is witty enough to answer that the constant of proportionality is nothing but the normalizing constant of the posterior probability, \\(\mathbb{P}(X_{n+1} = 1 | S_n = n)\\)!! Since we know, conditional probabilities are also probabilities and they also follow the conglomerability and adds up to 1. Hence, in this case, the required constant is \\(\frac{1}{\mathbb{P}(S_n = n)}\\).
 
@@ -108,7 +108,7 @@ $$\mathbb{P}(S_n = n | X_{n+1} = 1)\mathbb{P}(X_{n+1} = 1) = \int_{0}^{1}p^{n}pd
 
 Integrated since we consider all values within the interval **(0,1)** has same density i.e., **f(p) = 1** when **0<p<1**. Now our required posterior is,
 
-$$\mathbb{P}(X_{n+1} = 1 | S_n = n) \prop \frac{1}{n+2}$$
+$$\mathbb{P}(X_{n+1} = 1 | S_n = n) \propto \frac{1}{n+2}$$
 
 Now, one can verify that, our normalizing constant, \\(\mathbb{P}(S_n) = n\\) is \\(\frac{1}{n+1}\\). Use, **Law of Total Probability over 0<p<1**, using the prior density of **p**. Hence, finally, Laplace got,
 
