@@ -3,10 +3,8 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  A Brief Introduction of our Motive
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
-
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+We are a group of core and passionate probabilists and statisticians, majorly aiming to spread and convey our love and knowledge for the subject, trying to showcase and furnish some of the beauty of the above two disciplines.
