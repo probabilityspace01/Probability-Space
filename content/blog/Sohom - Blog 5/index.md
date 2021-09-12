@@ -111,9 +111,9 @@ Let's look at an example : In a certain city 49,581 boys and 48,870 girls have b
 
 A frequentist will approach the problem by computing a quantity called [`p-value`](https://en.wikipedia.org/wiki/P-value).
 
-Making a quite naive assumption that as the number of male births is quite large, we may assume normality of the fraction of male births **X** \\(~ N(\mu,\sigma^{2})\\), where \\(\mu = n\theta\\), \\(\sigma^{2} = n\theta(1-\theta)\\).
+Making a quite naive assumption that as the number of male births is quite large, we may assume normality of the fraction of male births **X** \\(\sim N(\mu,\sigma^{2})\\), where \\(\mu = n\theta\\), \\(\sigma^{2} = n\theta(1-\theta)\\).
 
-We then calculate the quantity : \\(\mathbb{P}(X\geqx)\\) taking the value of \\(\mu\\) in accordance to the null hypothesis.
+We then calculate the quantity : \\(\mathbb{P}(X \geq x)\\) taking the value of \\(\mu\\) in accordance to the null hypothesis.
 
 We find that the so called p-value obtained is lower than \\(\alpha = 0.5\\). Thus, we reject \\(H_0\\). [This is just an empirical rule (quite questionable!!)]
 
