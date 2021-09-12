@@ -40,7 +40,7 @@ Yeah, this is correct! Provided your thought process follows the same lines as t
 
 > *Any chord of the circle intersects it in two points, and we may suppose these to be independently distributed in probability distributions which are uniform over the circumference of the circle. Without loss of generality, we can suppose one of the two points to be at a vertex of an inscribed equilateral triangle. There is then just \\(\frac{1}{3}\\) of the circumference in which the other point can lie in order that the resulting chord has length greater than \\(\sqrt{3}\\), so that the probability is \\(\frac{1}{3}\\).*
 
-![](P1.jpg)
+![](P1.png.jpg)
 
 Do you get what are the favorable areas?
 
