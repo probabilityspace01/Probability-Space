@@ -1,14 +1,15 @@
 ---
-author: Alison Hill
-categories:
-- evergreen
-date: "2021-01-20"
+author: Soham Ghosh
+#categories:
+#- Theme Features
+date: "2021-09-08"
 draft: false
-excerpt: Good stuff
-layout: single
-subtitle: Testing
-title: An evergreen post
+excerpt:
+title: Some Classical Problems and Paradoxes in Geometric Probability
 ---
+
+$$x = \frac{a}{b}$$
+
 
 ## Rendering mathematical equations
 

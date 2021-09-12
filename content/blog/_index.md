@@ -9,14 +9,14 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View recent posts
     text_link_url: /blog/
-description: "This is a fully featured blogs and posts corners that uplifts and showcases innovative ideas, concepts and writings concerned to Probability and Statistics."
+description: "This is a fully featured blogs and posts corner that uplifts and showcases innovative ideas, concepts and writings concerned to Probability and Statistics."
 layout: list-sidebar
 show_author_byline: true
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: The Probability Space Team @probabilityspace01
-  description: "This is a fully featured blogs and posts corners that uplifts and showcases innovative ideas, concepts and writings concerned to Probability and Statistics."
+  description: "This is a fully featured blogs and posts corner that uplifts and showcases innovative ideas, concepts and writings concerned to Probability and Statistics."
   show_sidebar_adunit: true
   text_link_url: /index.xml
   title: Sigma Field
