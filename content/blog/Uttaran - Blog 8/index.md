@@ -78,9 +78,9 @@ Though very important restriction imposed by Bayes here is that, the set of poss
 
 This visualization of probability is important, once you enter the Bayesian regime. Moreover, even though frequency probability is our basic and primary understanding of probability, I find this interpretation of judgemental probabilities or sometimes also called Likelihoods( we will see later), more general model of probability, though a bit of abstraction associated, but that the true nature of an art, right ! And probability is an Art !
 
-So, getting back to Bayes' definition of probability, mathematically speaking, If your total Judgement about an experiment (or gamble) is **N** (that is you put **N** unit on contract in case of gamble), and the there is an event **e**, then the payoff from your investment of **N**, you may expect from the occurrence of the event **e** is **N**.\\(mathbb{P}\\)**(e)**, or
+So, getting back to Bayes' definition of probability, mathematically speaking, If your total Judgement about an experiment (or gamble) is **N** (that is you put **N** unit on contract in case of gamble), and the there is an event **e**, then the payoff from your investment of **N**, you may expect from the occurrence of the event **e** is **N**.\\(\mathbb{P}(e)\\), or
 
-$$\mathbb{P}(e) = \frac{Expected value of out of N, if e}{N}$$
+$$\mathbb{P}(e) = \frac{\text{Expected value of out of N, if e}}{N}$$
 
 where, \\(\mathbb{P}(e)\\) as the chance of the event **e**. He completes his definition by claiming that *"by Chance I mean Probability"*.
 
@@ -120,7 +120,7 @@ These arguments by Bayes gives two basic implications that, eventhough he didn't
 
 With conditional probability in hand, Bayes proceeds to the problem with which he begins the Essay. Suppose a coin, about whose bias we know nothing at all, has been flipped **n** times and has been heads **m** times. If **x** is the chance that coin comes up heads on a single toss, Bayes requires,
 
-$$\mathbb{P}(x in [a,b] | m heads in n tosses) = \frac{\mathbb{P}(x in [a,b] and m heads in n tosses)}{\mathbb{P}(m heads in n tosses)}$$
+$$\mathbb{P}(\text{x in [a,b] | m heads in n tosses}) = \frac{\mathbb{P}(\text{x in [a,b] and m heads in n tosses})}{\mathbb{P}(\text{m heads in n tosses})}$$
 
 To evaluate this, Bayes must assume something about the prior probability density over the chances. Prior probability density is the basically the prior (or initial) information about the desired unknown (here it is **x**), which he first assumes, and then he went on finding the required probability, which is called the posterior probability, based on the priors he assumed and the observations he made. So, basically he keeps updating his knowledge about the desired unknown starting with a mere information about the desired unknown (**x**). But the controversy arises where, he assumes the prior probability, or he makes an assumption about the prior information, that is the overall pattern on the nature of **x**. We will come to these later, first express Bayes' final touches while completing the solution.
 
@@ -136,7 +136,7 @@ Suppose we throw a red ball at random on a table and mark its distance from the 
 
 In scholium , Bayes uses his evaluation of the denominator to argue for his quantification of ignorance. He argues that, he knows nothing about the event except that there are **n** trials, he have no reason to think that it would succeed in some number of trials rather than another. Hence, he suggests that there is nothing wrong in taking
 
-\\(\mathbb{P}($m heads in n tosses$) = \frac{1}{n+1}\\), as our quantification of ignorance about outcomes. The uniform prior, in fact follows from this - although Bayes did not have the proof !!
+\\(\mathbb{P}(\text{m heads in n tosses}) = \frac{1}{n+1}\\), as our quantification of ignorance about outcomes. The uniform prior, in fact follows from this - although Bayes did not have the proof !!
 
 
 ### Priors to Posteriors - Journey Continues!
