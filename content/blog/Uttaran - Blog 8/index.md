@@ -126,7 +126,7 @@ To evaluate this, Bayes must assume something about the prior probability densit
 
 Now Bayes assumes a uniform prior density as the correct quantification of knowing nothing concerning it. Anticipating that this might prove controversial, as I mentioned above, and of course it has, he later offers a different justification in a **scholium**. On this basis, he applies Newton's calculus to get,
 
-$$\frac{\int_{a}^{b}\binom{n}{m}x^{m}(1-x)^{n-m}dx}{\int{0}^{1}\binom{n}{m}x^{m}(1-x)^{n-m}dx}$$.
+$$\frac{\int_{a}^{b}\binom{n}{m}x^{m}(1-x)^{n-m}dx}{\int_{0}^{1}\binom{n}{m}x^{m}(1-x)^{n-m}dx}$$.
 
 How are these to be solved? Bayes evaluates integral in the denominator by a geometrical trick. This is Bayes' **"billiard table"** argument.
 
