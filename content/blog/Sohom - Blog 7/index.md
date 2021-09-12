@@ -36,7 +36,7 @@ $$\mathbb{P}(A|I) = \sum_{i=1}^{n}\mathbb{P}(A \cap C_i|I) = \sum_{i=1}^{n}\math
 
 As you all seen in the previous blog post, the prior probability \\(\mathbb{P}(A|I)\\) is written as a weighted average of the conditional probabilities \\(\mathbb{P}(A|C_{i}I)\\).
 
-Now, it is an elementary result that the weighted mean of a set of real numbers cannot lie outside the range spanned by those numbers, i.e., if \\(L \leq \\(\mathbb{P}(A|C_{i}I)\\) \leq U\\); then necessarily \\(L \leq \\(\mathbb{P}(A|I)\\) \leq U\\).
+Now, it is an elementary result that the weighted mean of a set of real numbers cannot lie outside the range spanned by those numbers, i.e., if \\(L \leq \mathbb{P}(A|C_{i}I) \leq U\\); then necessarily \\(L \leq \mathbb{P}(A|I) \leq U\\).
 
 **De Finetti** (1972) called this property as **"conglomerability"** of the partition \\({C_i}\\).
 
