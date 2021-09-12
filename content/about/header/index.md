@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  A Brief Introduction of our Motive
+  A Brief Introduction of our Motive!
 ---
 
 <!-- this is a subheadline -->
