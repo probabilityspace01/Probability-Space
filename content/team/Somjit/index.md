@@ -6,7 +6,7 @@
 #- package
 date: "2021-09-10"
 draft: false
-excerpt: A Graduate in Statistics from St.Xaviers's College, Kolkata, having interests in Applied Probability and Statistics including Markov Chains, Design of Experiments, Machine Learning, etc.
+excerpt: A Graduate in Statistics from St.Xavier's College, Kolkata, having interests in Theoretical/Applied Probability and Statistics including Random Walks, Markov Chains, Design of Experiments, Machine Learning, etc.
 layout: single
 #subtitle: Stat, Math & Code.
 tags:
