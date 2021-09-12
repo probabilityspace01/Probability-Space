@@ -136,7 +136,7 @@ Suppose we throw a red ball at random on a table and mark its distance from the 
 
 In scholium , Bayes uses his evaluation of the denominator to argue for his quantification of ignorance. He argues that, he knows nothing about the event except that there are **n** trials, he have no reason to think that it would succeed in some number of trials rather than another. Hence, he suggests that there is nothing wrong in taking
 
-\\(\mathbb{P}(m heads in n tosses) = \frac{1}{n+1}\\), as our quantification of ignorance about outcomes. The uniform prior, in fact follows from this - although Bayes did not have the proof !!
+\\(\mathbb{P}($m heads in n tosses$) = \frac{1}{n+1}\\), as our quantification of ignorance about outcomes. The uniform prior, in fact follows from this - although Bayes did not have the proof !!
 
 
 ### Priors to Posteriors - Journey Continues!
