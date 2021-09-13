@@ -16,6 +16,8 @@ title: U. Members
 
 ### Srijit Mukherjee : Member ID - \\(\Omega\mathbb{F}\mathbb{P}340\\)
 
+Srijit Mukherjee, B.STAT and M.STAT, from Indian Statistical Institute, Kolkata.
+
 ### Medhalakshmi Acharya : Member ID - \\(\Omega\mathbb{F}\mathbb{P}210\\)
 
 Medhalakshmi Acharya, BSc. Statistics Student of Presidency University. My research interest includes **Probability theory**. Thanks for considering me as a part of this wonderful initiative.
