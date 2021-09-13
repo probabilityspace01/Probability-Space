@@ -84,7 +84,7 @@ Define, \\(L_{r}(C) = \sum_{i=1}^{n}|c(a_{i-1}) - c(a_{i})|\\)
 
 Then \\(L(C) = sup_{r}L_{r}(C)\\)
 
-Now, each of the \\(|c(a_{i-1} - c(a_{i})|\\) are approximated by the **Crofton's Formula**. Now, taking the limit gives just eh required result. **QED**.
+Now, each of the \\(|c(a_{i-1} - c(a_{i})|\\) are approximated by the **Crofton's Formula**. Now, taking the limit gives just eh required result. QED.
 
 ### Measuring the Length of an Earphone
 
