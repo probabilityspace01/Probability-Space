@@ -2,7 +2,7 @@
 #action_label: Read More &rarr;
 #action_link: /about
 #action_type: text
-description: Here we will be giving all the latest updates about our upcoming events, along with the ongoing projects. Stay tuned !
+description: Scroll through the Sigma Field section to indulge in some interesting thoughts and concepts.
 image_left: true
 images:
 - img/PS_Logo.png

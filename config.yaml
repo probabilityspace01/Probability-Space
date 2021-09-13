@@ -34,7 +34,7 @@ params:
   customheadingFontFamily: ""
   #Fraunces
   customtextFontFamily: Commissioner
-  description: A modern, beautiful, and easily configurable blog theme for Hugo.
+  description: Uniting Probability.
   favicon: /img/infinity-solid.svg
   headingFontFamily: baskerville
   #sans-serif
