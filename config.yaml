@@ -88,7 +88,7 @@ taxonomies:
   series: series
   tag: tags
 menu:
-  footer:
+  #footer:
     #- name: License
     #  title: License
     #  url: /license/
