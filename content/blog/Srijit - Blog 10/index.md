@@ -18,11 +18,11 @@ Let's explore some truths.
 
 * Earphones are as Messy.
 
-This article is all about connecting these three truths to a topic in **Probability Theory** \\(\cap\\) **Geometry**, which is not so famous among peers, yet its' usefulness has led one to make an app in Google Play Store, which has only one download (by me). The sarcasm is towards the people, who didn't download, (obviously).
+This article is all about connecting these three truths to a topic in **Probability Theory** intersection **Geometry**, which is not so famous among peers, yet its' usefulness has led one to make an app in Google Play Store, which has only one download (by me). The sarcasm is towards the people, who didn't download, (obviously).
 
 Today is the day for **Cauchy Crofton's Formula**, which can measure the length of any curve using random straight lines by counting points. It is all encoded in the formula.
 
-$$L(c) = \frac{1}{2} * \int\intn(p,\theta)dpd\theta$$
+$$L(c) = \frac{1}{2} * \int\int n(p,\theta)dpd\theta$$
 
 This is the beginning of a topic called **Integral Geometry**.
 
