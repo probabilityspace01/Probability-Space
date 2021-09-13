@@ -9,7 +9,7 @@ cascade:
     text_link_label: View all projects
     text_link_url: /project/
 #description: Give your projects a place to live online.
-layout: list-grid
+#layout: list-grid
 show_author_byline: true
 show_post_date: false
 show_post_thumbnail: true
@@ -21,7 +21,7 @@ sidebar:
   text_link_label: ""
   text_link_url: ""
   title: A Sidebar for Your Projects
-title: Members of the Club
+title: The Team at a glance
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
