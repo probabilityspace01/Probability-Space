@@ -21,6 +21,7 @@ sidebar:
   text_link_url: ""
   title: A Sidebar for Your Projects
 title: The Team at a glance
+subtitle: Move onto the next page for having a look at our list of members.
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
