@@ -14,10 +14,6 @@ tags:
 title: U. Members
 ---
 
-## Stat, Math & Code!
-
----
-
 ### Srijit Mukherjee : Member ID - \\(\Omega\mathbb{F}\mathbb{P}340\\)
 
 ### Medhalakshmi Acharya : Member ID - \\(\Omega\mathbb{F}\mathbb{P}210\\)
