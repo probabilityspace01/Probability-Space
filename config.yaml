@@ -93,10 +93,10 @@ menu:
     #  title: License
     #  url: /license/
     #  weight: 1
-    #- name: Contact
-    #  title: Contact form
-    #  url: /contact/
-    #  weight: 1
+    - name: Contact
+      title: Contact form
+      url: /contactform/
+      weight: 1
     #- name: Contributors
     #  title: Contributors
     #  url: /contributors/
