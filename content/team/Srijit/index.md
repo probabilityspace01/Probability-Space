@@ -6,7 +6,7 @@
 #- package
 date: "2021-09-10"
 draft: false
-excerpt: I am currently pursuing M.STAT from the Indian Statistical Institute, Delhi Center, mainly interested in Bayesian Optimization.
+excerpt: B.STAT and M.STAT from ISI, Kolkata, interested in Network and Bayesian Statistics.
 layout: single
 #subtitle: Loves to learn.
 tags:
