@@ -11,12 +11,9 @@ layout: single
 #subtitle: Stat, Math & Code.
 tags:
 - hugo-site
-title: U. Members
+title: T. Members
 ---
 
-### Srijit Mukherjee : Member ID - \\(\Omega\mathbb{F}\mathbb{P}340\\)
-
-Srijit Mukherjee, B.STAT and M.STAT, from Indian Statistical Institute, Kolkata.
 
 ### Medhalakshmi Acharya : Member ID - \\(\Omega\mathbb{F}\mathbb{P}210\\)
 
@@ -27,3 +24,15 @@ Medhalakshmi Acharya, BSc. Statistics Student of Presidency University. My resea
 
 Myself Srinjoy Chaudhuri, BSc. Statistics Honours (2020-23) student of St. Xavier's College Kolkata. My research interests includes **Theoritical Probability** and **Number Theory**. I'm very much excited to begin the journey with this wonderful team.
 
+### Ramit Nandi : Member ID - \\(\Omega\mathbb{F}\mathbb{P}171\\)
+
+
+### Samya Praharaj : Member ID - \\(\Omega\mathbb{F}\mathbb{P}633\\)
+
+My main research interests are **Mathematical Statistics** and **Probability**, with special emphasis on **Random Polynomials**.
+
+### Avirup Das : Member ID - \\(\Omega\mathbb{F}\mathbb{P}667\\)
+
+CMI, Data Science 
+
+Interests: **Algorithms**, **Numerical Linear Algebra**, **Deep Learning** and **Statistical Computations**.
