@@ -15,24 +15,24 @@ title: T. Members
 ---
 
 
-### Medhalakshmi Acharya : Member ID - \\(\Omega\mathbb{F}\mathbb{P}210\\)
+### * Medhalakshmi Acharya : Member ID - \\(\Omega\mathbb{F}\mathbb{P}210\\)
 
-Medhalakshmi Acharya, BSc. Statistics Student of Presidency University. My research interest includes **Probability theory**. Thanks for considering me as a part of this wonderful initiative.
-
-
-### Srinjoy Chaudhuri : Member ID - \\(\Omega\mathbb{F}\mathbb{P}411\\)
-
-Myself Srinjoy Chaudhuri, BSc. Statistics Honours (2020-23) student of St. Xavier's College Kolkata. My research interests includes **Theoritical Probability** and **Number Theory**. I'm very much excited to begin the journey with this wonderful team.
-
-### Ramit Nandi : Member ID - \\(\Omega\mathbb{F}\mathbb{P}171\\)
+> Medhalakshmi Acharya, BSc. Statistics Student of Presidency University. My research interest includes **Probability theory**. Thanks for considering me as a part of this wonderful initiative.
 
 
-### Samya Praharaj : Member ID - \\(\Omega\mathbb{F}\mathbb{P}633\\)
+### * Srinjoy Chaudhuri : Member ID - \\(\Omega\mathbb{F}\mathbb{P}411\\)
 
-My main research interests are **Mathematical Statistics** and **Probability**, with special emphasis on **Random Polynomials**.
+> Myself Srinjoy Chaudhuri, BSc. Statistics Honours (2020-23) student of St. Xavier's College Kolkata. My research interests includes **Theoritical Probability** and **Number Theory**. I'm very much excited to begin the journey with this wonderful team.
 
-### Avirup Das : Member ID - \\(\Omega\mathbb{F}\mathbb{P}667\\)
+### * Ramit Nandi : Member ID - \\(\Omega\mathbb{F}\mathbb{P}171\\)
 
-CMI, Data Science 
+> An Undergrad in Statistics @ Asutosh College.  
 
+### * Samya Praharaj : Member ID - \\(\Omega\mathbb{F}\mathbb{P}633\\)
+
+> My main research interests are **Mathematical Statistics** and **Probability**, with special emphasis on **Random Polynomials**.
+
+### * Avirup Das : Member ID - \\(\Omega\mathbb{F}\mathbb{P}667\\)
+
+> CMI, Data Science 
 Interests: **Algorithms**, **Numerical Linear Algebra**, **Deep Learning** and **Statistical Computations**.
