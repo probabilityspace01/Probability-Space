@@ -95,7 +95,7 @@ menu:
     #  weight: 1
     - name: Contact
       title: Contact form
-      url: /contactform/
+      url: https://docs.google.com/forms/d/e/1FAIpQLSdrMkQQdo8vdUvVdwnF-DxUB8c-hQHnr6b86fQB1I4sDOHAzQ/viewform?usp=sf_link
       weight: 1
     #- name: Contributors
     #  title: Contributors
