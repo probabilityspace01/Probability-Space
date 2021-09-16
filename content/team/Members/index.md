@@ -34,7 +34,7 @@ title: T. Members
 
 ### * Avirup Das : Member ID - \\(\Omega\mathbb{F}\mathbb{P}667\\)
 
-> CMI, Data Science 
+> CMI, Data Science.  
 Interests: **Algorithms**, **Numerical Linear Algebra**, **Deep Learning** and **Statistical Computations**.
 
 ### * Udvas Das : Member ID - \\(\Omega\mathbb{F}\mathbb{P}340\\)
