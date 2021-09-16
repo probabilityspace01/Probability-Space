@@ -41,4 +41,9 @@ Interests: **Algorithms**, **Numerical Linear Algebra**, **Deep Learning** and *
 
 > I have completed my graduation in Statistics from St. Xavier's College. I am interested in **Probability** and **Stochastic Processes** and also I am very much into **Data Modeling** and would love to do research in the convergence area of statistics and data modelling through **Machine Learning**.
 
+### * Shiuli Subhra Ghosh : Member ID - \\(\Omega\mathbb{F}\mathbb{P}617\\)
+
+> I am a 2nd Year Data Science student at CMI. Prior to that, I have graduated with a B.Tech in Electrical Engineering from the National Institute of Technology, Durgapur. I am passionate about applying **ML** and **AI** for **Electrical Systems**, like, Renewable Energy Demand Forecasting, Data-Driven control, etc. I am also interested to work in the domain of **FairML**, where we get to identify and rectify the underlying social bias towards crucial decisions.
+
+
 
