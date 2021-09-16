@@ -95,13 +95,6 @@ Till then, keep learning, keep thinking and keep innovating!
 
 > *Mathematical Recreations and Essays- Ball & Coxeter*
 
-<script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
-        issue-term="pathname"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
 
 
 
