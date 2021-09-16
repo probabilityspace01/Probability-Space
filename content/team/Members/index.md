@@ -36,3 +36,9 @@ title: T. Members
 
 > CMI, Data Science 
 Interests: **Algorithms**, **Numerical Linear Algebra**, **Deep Learning** and **Statistical Computations**.
+
+### * Udvas Das : Member ID - \\(\Omega\mathbb{F}\mathbb{P}340\\)
+
+> I have completed my graduation in Statistics from St. Xavier's College. I am interested in **Probability** and **Stochastic Processes** and also I am very much into **Data Modeling** and would love to do research in the convergence of statistics and data modelling through **Machine Learning**.
+
+
