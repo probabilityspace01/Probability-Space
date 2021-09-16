@@ -95,5 +95,6 @@ Till then, keep learning, keep thinking and keep innovating!
 
 > *Mathematical Recreations and Essays- Ball & Coxeter*
 
+Settings
 
 
