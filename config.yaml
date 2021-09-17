@@ -108,18 +108,18 @@ menu:
       title: About Probability Space as a Club
       url: /about/
       weight: 1
-    #- name: The Team
-    #  title: Team Description
-    #  url: /team/
-    #  weight: 2
+    - name: Sample Space
+      title: Sample Space
+      url: /talk/
+      weight: 2
     - name: Sigma Field
       title: Sigma Field
       url: /blog/
-      weight: 2
+      weight: 3
     - name: The Team
       title: The Team
       url: /team/
-      weight: 3
+      weight: 4
     #- name: Talks
     #  title: Talks
     #  url: /talk/
