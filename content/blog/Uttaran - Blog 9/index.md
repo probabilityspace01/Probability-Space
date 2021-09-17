@@ -198,6 +198,10 @@ Till then, stay safe, and keep finding the solutions for the Gambling Problems L
 
 ---
 
+We encourage discussions and queries, along with sharing of ideas and concepts, through this *Disqus* server below. Feel free to share and interact! 
+
+---
+
 <div id="disqus_thread"></div>
 <script>
     /**

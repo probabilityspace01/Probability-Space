@@ -162,6 +162,10 @@ Till then, stay safe, and keep finding the red ball on the billiard table, but d
 
 ---
 
+We encourage discussions and queries, along with sharing of ideas and concepts, through this *Disqus* server below. Feel free to share and interact! 
+
+---
+
 <div id="disqus_thread"></div>
 <script>
     /**

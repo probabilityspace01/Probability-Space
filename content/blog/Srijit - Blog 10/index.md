@@ -108,6 +108,10 @@ An example is show below. This is done in the app named [`Cauchy-Crofton App`](h
 
 ---
 
+We encourage discussions and queries, along with sharing of ideas and concepts, through this *Disqus* server below. Feel free to share and interact! 
+
+---
+
 <div id="disqus_thread"></div>
 <script>
     /**

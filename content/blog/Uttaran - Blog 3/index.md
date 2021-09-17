@@ -152,6 +152,10 @@ You can share them with us perhaps !!
 
 ---
 
+We encourage discussions and queries, along with sharing of ideas and concepts, through this *Disqus* server below. Feel free to share and interact! 
+
+---
+
 <div id="disqus_thread"></div>
 <script>
     /**
