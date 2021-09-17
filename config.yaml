@@ -77,12 +77,14 @@ params:
   textFontFamily: sans-serif
   theme: grayscale
   twitter: apreshill
-  utterances:
-    issue_term: pathname
-    label: 'comments :crystal_ball:'
-    repo_name: Probability-Space
-    theme: boxy-light
-    use_utterances: yes
+  disqus:
+    shortname: probability-space
+  #utterances:
+  #  issue_term: pathname
+  #  label: 'comments :crystal_ball:'
+  #  repo_name: Probability-Space
+  #  theme: boxy-light
+  #  use_utterances: yes
 taxonomies:
   category: categories
   series: series
