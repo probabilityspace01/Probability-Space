@@ -97,6 +97,10 @@ Till then, keep learning, keep thinking and keep innovating!
 
 ---
 
+We encourage discussions and queries, along with sharing of ideas and concepts, through this *Disqus* server below. Feel free to share and interact! 
+
+---
+
 <div id="disqus_thread"></div>
 <script>
     /**
