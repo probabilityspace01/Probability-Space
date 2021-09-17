@@ -24,10 +24,6 @@ title: T. Members
 
 > Myself Srinjoy Chaudhuri, BSc. Statistics Honours (2020-23) student of St. Xavier's College Kolkata. My research interests includes **Theoritical Probability** and **Number Theory**. I'm very much excited to begin the journey with this wonderful team.
 
-### * Ramit Nandi : Member ID - \\(\Omega\mathbb{F}\mathbb{P}171\\)
-
-> An Undergrad in Statistics @ Asutosh College.  
-
 ### * Samya Praharaj : Member ID - \\(\Omega\mathbb{F}\mathbb{P}633\\)
 
 > My main research interests are **Mathematical Statistics** and **Probability**, with special emphasis on **Random Polynomials**.
@@ -45,5 +41,7 @@ Interests: **Algorithms**, **Numerical Linear Algebra**, **Deep Learning** and *
 
 > I am a 2nd Year Data Science student at CMI. Prior to that, I have graduated with a B.Tech in Electrical Engineering from the National Institute of Technology, Durgapur. I am passionate about applying **ML** and **AI** for **Electrical Systems**, like, Renewable Energy Demand Forecasting, Data-Driven control, etc. I am also interested to work in the domain of **FairML**, where we get to identify and rectify the underlying social bias towards crucial decisions.
 
+### * Arghadeep Basu : Member ID - \\(\Omega\mathbb{F}\mathbb{P}176\\)
 
+> Pursuing MSc. Statistics from IIT Kanpur, having interests in **Regression Analysis**  and **Biostatistics**.
 
