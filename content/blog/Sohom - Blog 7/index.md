@@ -146,7 +146,7 @@ Till then stay safe.
 
 ---
 
-We encourage discussions and queries, along with sharing of ideas and concepts, through this *Disqus* server below. Feel free to share and interact! 
+We encourage discussions and queries, along with sharing of ideas and concepts, through this *Disqus* thread below. Feel free to share and interact! 
 
 ---
 
