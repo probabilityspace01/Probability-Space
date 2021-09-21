@@ -1,7 +1,7 @@
 ---
 author: Dr.Arnab Chakraborty
-#categories:
-#- workshop
+categories:
+- workshop
 date: "2021-09-24"
 date_end: "2021-09-24"
 draft: false
