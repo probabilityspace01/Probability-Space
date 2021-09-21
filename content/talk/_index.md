@@ -18,7 +18,8 @@ sidebar:
   author: The Probability Space Team @probabilityspace01
   description: "This is a section for webinars, talks and more, where we showcase and unite the beautiful ideas and concepts shared by our respected speakers."
   show_sidebar_adunit: false
-  text_link_url: /index.xml
+  text_link_label: Subscribe via Youtube
+  text_link_url: https://www.youtube.com/channel/UCBxZanUU8pJ78PhZx22ufdQ
   title: Sample Space - Talks that Last!
 thumbnail_left: true
 title: Sample Space - Talks that Last!
