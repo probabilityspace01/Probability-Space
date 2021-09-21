@@ -2,8 +2,8 @@
 author: Alison Hill
 categories:
 - meetup
-date: "2021-09-24T14:15:59-06:00"
-date_end: "2021-09-24T14:45:59-06:00"
+#date: "2021-09-24T14:15:59-06:00"
+#date_end: "2021-09-24T14:45:59-06:00"
 draft: false
 event: rstudio::global(2021)
 event_url: https://global.rstudio.com
