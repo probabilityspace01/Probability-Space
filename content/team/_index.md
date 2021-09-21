@@ -9,7 +9,7 @@ cascade:
     text_link_label: View all projects
     text_link_url: /project/
 #description: Give your projects a place to live online.
-layout: list-sidebar
+layout: list-grid
 show_author_byline: true
 show_post_date: false
 show_post_thumbnail: true
