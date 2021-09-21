@@ -8,7 +8,7 @@ cascade:
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent posts
-    text_link_url: /talk/
+    text_link_url: /webinars/
 description: "This is a section for webinars, talks and more, where we showcase and unite the beautiful ideas and concepts shared by our respected speakers."
 layout: list-sidebar
 show_author_byline: true
