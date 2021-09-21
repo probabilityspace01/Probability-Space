@@ -110,7 +110,7 @@ menu:
       weight: 1
     - name: Sample Space
       title: Sample Space
-      url: /webinars/
+      url: /talk/
       weight: 2
     - name: Sigma Field
       title: Sigma Field
