@@ -7,8 +7,8 @@ categories:
 draft: false
 event: rstudio::global(2021)
 event_url: https://global.rstudio.com
-excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
-  GitHub, and Netlify.
+#excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
+#  GitHub, and Netlify.
 featured: true
 layout: single
 links:
