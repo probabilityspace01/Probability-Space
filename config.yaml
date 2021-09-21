@@ -120,10 +120,6 @@ menu:
       title: The Team
       url: /team/
       weight: 4
-    - name: The Magazine
-      title: The Magazine
-      url: /magazine/
-      weight: 5
     #- name: Talks
     #  title: Talks
     #  url: /talk/
