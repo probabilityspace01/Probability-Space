@@ -8,7 +8,7 @@ draft: false
 excerpt: Yet another idea
 layout: single
 location: Online
-subtitle: 
+subtitle: An Online Webinar
 title: The Banach-Tarski Paradox
 ---
 
