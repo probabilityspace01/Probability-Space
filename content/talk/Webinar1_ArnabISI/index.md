@@ -2,7 +2,7 @@
 #author: Dr. Arnab Chakraborty
 #categories:
 #- meetup
-date: "2021"
+date: "2021-09-21"
 #date_end: "2021-09-24T16:30:59-06:00"
 draft: false
 event: Webinar
