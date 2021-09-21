@@ -8,7 +8,7 @@ cascade:
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent posts
-    text_link_url: /blog/
+    text_link_url: /magazine/
 description: "This is a fully featured blogs and posts corner that uplifts and showcases innovative ideas, concepts and writings concerned to Probability and Statistics."
 layout: list-sidebar
 show_author_byline: true
