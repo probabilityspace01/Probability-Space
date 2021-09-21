@@ -2,7 +2,7 @@
 author: Dr. Arnab Chakraborty
 categories:
 - meetup
-date: "2021-09-20T15:00:59-06:00"
+date: "2021-09-24T15:00:59-06:00"
 date_end: "2021-09-24T16:30:59-06:00"
 #date: "2021-09-24T14:15:59-06:00"
 #date_end: "2021-09-24T14:45:59-06:00"
