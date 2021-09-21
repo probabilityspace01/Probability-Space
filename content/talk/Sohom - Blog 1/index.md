@@ -4,7 +4,7 @@ author: Dr.Arnab Chakraborty
 #- Theme Features
 date: "2021-09-24"
 draft: false
-excerpt: 
+excerpt:
 title: The Banach-Tarski Paradox
 ---
 
