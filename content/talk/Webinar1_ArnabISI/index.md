@@ -30,4 +30,10 @@ show_post_time: false
 title: The Banach-Tarski Paradox
 ---
 
-This is our first webinar, where Dr. Arnab Chakraborty of Inidian Statistical Institute, Kolkata will be speaking on *The Banach Tarski Paradox*. 
+This is our first webinar, where Dr. Arnab Chakraborty of Inidian Statistical Institute, Kolkata will be speaking on *The Banach Tarski Paradox*.
+
+### Abstract
+
+Can you split a ball into finitely many pieces, refit them, and produce two balls, both identical to the original one? With magic, yes. With math? Well, yes again. This is the famous **Banach-Tarski theorem**, a theorem so mind-boggling, that it has earned the nickname **Banach-Tarski Paradox**. The proof requires more than basic arguments involving *countability* and *uncountability*.
+
+We shall present the proof with pictures. We shall lightly touch upon the implication of this theorem on measure theory. *Knowledge of measure theory is not a pre-requisite, though!*
