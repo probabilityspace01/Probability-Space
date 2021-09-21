@@ -6,7 +6,7 @@ date: "2021-09-24"
 #date_end: "2021-01-13"
 draft: false
 event: Online Webinar
-event_url: 
+#event_url: 
 #excerpt: Can you split a ball into finitely many pieces, refit them, and produce two balls, both identical to the original one? With magic, yes. With math? Well, yes again. This is the famous Banach-Tarski theorem, a theorem so mind-boggling, that it has earned the nickname Banach-Tarski Paradox. The proof requires a little more than basic arguments involving countability and uncountability. We shall present the proof with pictures, We shall lightly touch upon the implication of this theorem on measure theory. Knowledge of measure theory is not a pre-requisite, though!
 featured: true
 layout: single
