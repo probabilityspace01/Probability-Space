@@ -7,8 +7,7 @@ categories:
 draft: false
 event: Webinar
 event_url: https://www.youtube.com/channel/UCBxZanUU8pJ78PhZx22ufdQ
-#excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
-#  GitHub, and Netlify.
+excerpt: A talk on Banach-Tarski Paradox by Dr. Arnab Chakraborty, ISI Kolkata.
 featured: true
 layout: single
 links:
