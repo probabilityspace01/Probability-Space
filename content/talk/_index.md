@@ -19,7 +19,7 @@ show_post_thumbnail: true
 show_post_time: true
 sidebar:
   author: The Probability Space Team @probabilityspace01
-  description: "This is a corner featuring "
+  description: "This is a corner featuring all our Talks and Discussions aiming to spread and appreciate the heuristic, theoretical and practical avenues of Probability and Statistics."
   show_sidebar_adunit: false
   text_link_label: Visit our Youtube page 
   text_link_url: https://www.youtube.com/
