@@ -1,5 +1,5 @@
 ---
-author: Dr.Arnab Chakraborty
+author: Dr. Arnab Chakraborty
 categories:
 - meetup
 #date: "2021-09-24T14:15:59-06:00"
@@ -22,8 +22,8 @@ links:
   url: https://github.com/apreshill/bakeoff
 location: Sydney, Australia
 show_post_time: false
-subtitle: Testing
-title: A campfire
+#subtitle: Testing
+title: The Banach-Tarski Paradox
 ---
 
 I'm really excited to give this talk! Stay tuned for video and slides.
