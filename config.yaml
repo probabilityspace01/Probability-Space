@@ -111,6 +111,7 @@ menu:
     - name: Sample Space
       title: Sample Space
       url: /talk/
+      future: true
       weight: 2
     - name: Sigma Field
       title: Sigma Field
