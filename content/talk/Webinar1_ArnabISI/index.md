@@ -2,8 +2,8 @@
 #author: Dr. Arnab Chakraborty
 #categories:
 #- meetup
-date: "2021-09-21T15:00:59-06:00"
-date_end: "2021-09-21T16:30:59-06:00"
+#date: "2021-09-21T15:00:59-06:00"
+#date_end: "2021-09-21T16:30:59-06:00"
 draft: false
 event: Webinar 
 event_url: https://www.youtube.com/channel/UCBxZanUU8pJ78PhZx22ufdQ
@@ -33,9 +33,7 @@ This is our first webinar, where Dr. Arnab Chakraborty of Indian Statistical Ins
 
 Have we ever wondered, why the axiom of "**Countable Additivity**" is so crucial while defining Probability Measure (or while extending any finite measure)?
 
-In our opening webinar, we will hear about the usung significance of Countable Additivity through one of the most perplexing paradoxes. 
-
-So we invite all of you to attend this session, being live steamed on YouTube, the link to which is provided below. 
+In our opening webinar, we will hear about the usung significance of Countable Additivity through one of the most perplexing paradoxes.
 
 ### Abstract
 
