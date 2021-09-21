@@ -35,6 +35,8 @@ Have we ever wondered, why the axiom of "**Countable Additivity**" is so crucial
 
 In our opening webinar, we will hear about the usung significance of Countable Additivity through one of the most perplexing paradoxes.
 
+So we invite all of you to attend this session, being live steamed on YouTube, the link to which is provided below.
+
 ### Abstract
 
 Can you split a ball into finitely many pieces, refit them, and produce two balls, both identical to the original one? With magic, yes. With math? Well, yes again. This is the famous **Banach-Tarski theorem**, a theorem so mind-boggling, that it has earned the nickname **Banach-Tarski Paradox**. The proof requires more than basic arguments involving *countability* and *uncountability*.
