@@ -19,7 +19,7 @@ sidebar:
   description: "This is a fully featured blogs and posts corner that uplifts and showcases innovative ideas, concepts and writings concerned to Probability and Statistics."
   show_sidebar_adunit: false
   text_link_url: /index.xml
-  title: Sigma Field - A Corner for Blogs and Posts!
+  title: Sample Space - A Corner for Blogs and Posts!
 thumbnail_left: true
 title: A Corner for Blogs and Posts
 ---
