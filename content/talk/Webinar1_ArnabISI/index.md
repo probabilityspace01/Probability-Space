@@ -5,7 +5,7 @@
 date: "2021-09-21T15:00:59-06:00"
 #date_end: "2021-09-24T16:30:59-06:00"
 draft: false
-event: Webinar on 24th September, 2021 @ 3:00 PM (IST)  
+event: Webinar  
 event_url: https://www.youtube.com/channel/UCBxZanUU8pJ78PhZx22ufdQ
 #excerpt: A talk on Banach-Tarski Paradox by Dr. Arnab Chakraborty, ISI Kolkata.
 featured: true
