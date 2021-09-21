@@ -21,8 +21,8 @@ sidebar:
   author: The Probability Space Team @probabilityspace01
   description: "A Corner for talks and more, showcasing and uniting all the beautiful ideas and concepts shared by our respected speakers."
   show_sidebar_adunit: false
-  text_link_label: Subscribe via RSS
-  text_link_url: /talk/index.xml
+  text_link_label: Subscribe via Youtube
+  text_link_url: https://www.youtube.com/channel/UCBxZanUU8pJ78PhZx22ufdQ
   title: Sample Space - Talks that Last!
 title: Sample Space - Talks that Last!
 ---
