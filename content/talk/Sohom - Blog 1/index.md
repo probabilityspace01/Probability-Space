@@ -4,7 +4,7 @@ author: Dr.Arnab Chakraborty
 #- Theme Features
 date: "2021-09-24"
 draft: false
-excerpt: Have we ever wondered, why the axiom of "Countable Additivity" is so crucial while defining Probability Measure (or while extending any finite measure)? In our opening webinar by Professor Chakraborty, we will hear about the unsung significance of "Countable Additivity" through one of the most perplexing paradoxes. 
+excerpt: 
 title: The Banach-Tarski Paradox
 ---
 
