@@ -7,7 +7,7 @@ categories:
 draft: false
 event: Webinar
 event_url: https://www.youtube.com/channel/UCBxZanUU8pJ78PhZx22ufdQ
-excerpt: A talk on Banach-Tarski Paradox by Dr. Arnab Chakraborty, ISI Kolkata.
+#excerpt: A talk on Banach-Tarski Paradox by Dr. Arnab Chakraborty, ISI Kolkata.
 featured: true
 layout: single
 links:
@@ -25,7 +25,7 @@ links:
   url: https://github.com/apreshill/bakeoff
 #location: Kolkata, India
 show_post_time: false
-#subtitle: Testing
+subtitle: A talk by Dr. Arnab Chakraborty, ISI Kolkata.
 title: The Banach-Tarski Paradox
 ---
 
