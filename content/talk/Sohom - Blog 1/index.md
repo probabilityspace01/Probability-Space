@@ -1,11 +1,11 @@
 ---
-author: Dr.Arnab Chakraborty
+author: Soham Ghosh
 #categories:
 #- Theme Features
-date: "2021-09-24"
+date: "2021-09-11"
 draft: false
 excerpt:
-title: The Banach-Tarski Paradox
+title: Measuring Chances and Coincidences
 ---
 
 ### Coincidence Statistics - A Non-Formal Approach to Probability!
