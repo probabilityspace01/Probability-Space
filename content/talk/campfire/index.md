@@ -1,12 +1,12 @@
 ---
-author: Dr.Arnab Chakraborty
+author: Alison Hill
 categories:
 - workshop
-date: "2021-09-24"
-date_end: "2021-09-24"
+date: "2021-01-12"
+date_end: "2021-01-13"
 draft: false
-event: Online Webinar
-event_url: https://www.youtube.com/channel/UCBxZanUU8pJ78PhZx22ufdQ
+event: rstudio::global(2021)
+event_url: https://global.rstudio.com
 excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
   GitHub, and Netlify.
 featured: true
@@ -20,10 +20,10 @@ links:
   icon_pack: fab
   name: code
   url: https://github.com/apreshill/bakeoff
-location: Kolkata, India
+location: Sydney, Australia
 show_post_time: false
-#subtitle: Testing
-title: The Banach-Tarski Paradox
+subtitle: Testing
+title: A campfire
 ---
 
 I'm really excited to give this talk! Stay tuned for video and slides.
