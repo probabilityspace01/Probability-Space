@@ -49,7 +49,7 @@ We shall present the proof with pictures. We shall lightly touch upon the implic
 
 > Date: 24th Septmber, 2021
 
-> Time: 3:00 - 4:30 PM (IST)
+> Time: 3:00 PM (IST)
 
 > Platform: [<i class="fab fa-youtube"></i> Yotube](https://www.youtube.com/channel/UCBxZanUU8pJ78PhZx22ufdQ) 
 
