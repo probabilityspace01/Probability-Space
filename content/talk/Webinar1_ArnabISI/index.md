@@ -5,22 +5,26 @@ categories:
 #date: "2021-09-24T14:15:59-06:00"
 #date_end: "2021-09-24T14:45:59-06:00"
 draft: false
-event: rstudio::global(2021)
-event_url: https://global.rstudio.com
+event: Webinar
+event_url: https://www.youtube.com/channel/UCBxZanUU8pJ78PhZx22ufdQ
 #excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
 #  GitHub, and Netlify.
 featured: true
 layout: single
 links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
+- icon: youtube
   icon_pack: fab
-  name: code
+  name: Youtube
+  url: https://www.youtube.com/channel/UCBxZanUU8pJ78PhZx22ufdQ
+- icon: linkedin
+  icon_pack: fab
+  name: LinkedIn
   url: https://github.com/apreshill/bakeoff
-location: Sydney, Australia
+- icon: facebook
+  icon_pack: fab
+  name: Facebook
+  url: https://github.com/apreshill/bakeoff
+#location: Kolkata, India
 show_post_time: false
 #subtitle: Testing
 title: The Banach-Tarski Paradox
