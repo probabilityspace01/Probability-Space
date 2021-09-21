@@ -5,7 +5,7 @@
 #date: "2021-09-21T15:00:59-06:00"
 #date_end: "2021-09-21T16:30:59-06:00"
 draft: false
-event: Webinar 
+#event: Webinar 
 event_url: https://www.youtube.com/channel/UCBxZanUU8pJ78PhZx22ufdQ
 #excerpt: A talk on Banach-Tarski Paradox by Dr. Arnab Chakraborty, ISI Kolkata.
 featured: true
@@ -23,7 +23,7 @@ links:
   icon_pack: fab
   name: Facebook
   url: https://fb.me/e/37mfzTNm2?ti=wa
-location: Youtube
+#location: Youtube
 show_post_time: false
 subtitle: A talk by Prof. Arnab Chakraborty, ISI Kolkata.
 title: The Banach-Tarski Paradox
