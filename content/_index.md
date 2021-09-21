@@ -2,7 +2,7 @@
 #action_label: Read More &rarr;
 #action_link: /about
 #action_type: text
-description: Scroll through the Sigma Field section to indulge in some interesting thoughts and concepts.
+description: We are coming up with our first talk session on the Banach-Tarski Paradox by Prof. Arnab Chakraborty of ISI, Kolkata on 24th September, 2021 @ 3:00 PM. Visit the Sample Space section to know more!
 image_left: true
 images:
 - img/PS_Logo.png
