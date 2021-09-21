@@ -12,6 +12,8 @@ cascade:
     text_link_url: /talk/
 description: |
   A Corner for talks and more, showcasing and uniting all the beautiful ideas and concepts shared by our respected speakers.
+images:
+- img/featured.png
 layout: list
 show_author_byline: true
 show_post_date: true
