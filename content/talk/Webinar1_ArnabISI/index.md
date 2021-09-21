@@ -2,6 +2,7 @@
 author: Dr. Arnab Chakraborty
 categories:
 - meetup
+date: "2021-09-20"
 #date: "2021-09-24T14:15:59-06:00"
 #date_end: "2021-09-24T14:45:59-06:00"
 draft: false
@@ -23,17 +24,18 @@ links:
   icon_pack: fab
   name: Facebook
   url: https://github.com/apreshill/bakeoff
-#location: Kolkata, India
+location: Youtube
 show_post_time: false
 subtitle: A talk by Dr. Arnab Chakraborty, ISI Kolkata.
 title: The Banach-Tarski Paradox
 ---
 
-This is our first webinar, where Dr. Arnab Chakraborty of Indian Statistical Institute, Kolkata will be speaking on *The Banach Tarski Paradox*.
+This is our first webinar, where Dr. Arnab Chakraborty of Indian Statistical Institute, Kolkata will be speaking on '*The Banach Tarski Paradox*'.
 
 Have we ever wondered, why the axiom of "**Countable Additivity**" is so crucial while defining Probability Measure (or while extending any finite measure)?
 
-In our opening webinar, we will hear about the usung significance of Countable Additivity through one of the most perplexing paradoxes. 
+In our opening webinar, we will hear about the usung significance of Countable Additivity through one of the most perplexing paradoxes.
+
 
 ### Abstract
 
