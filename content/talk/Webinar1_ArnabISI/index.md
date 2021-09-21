@@ -30,4 +30,4 @@ show_post_time: false
 title: The Banach-Tarski Paradox
 ---
 
-I'm really excited to give this talk! Stay tuned for video and slides.
+This is our first webinar, where Dr. Arnab Chakraborty of Inidian Statistical Institute, Kolkata will be speaking on *The Banach Tarski Paradox*. 
