@@ -7,4 +7,4 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-We are a group of core and passionate probabilists and statisticians, majorly aiming to spread and convey our love and knowledge for the subject, trying to showcase and furnish some of the beauty of the above two disciplines.
+We are a group of probability and statistics enthusiasts, majorly aiming to spread and convey our love and knowledge for the subject, trying to showcase and furnish some of the beauty of the above two disciplines.
