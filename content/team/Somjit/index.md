@@ -33,4 +33,4 @@ You can feel free to connect through **Email** as well as **LinkedIn**, the link
 
 * <a href = mailto:somjit.roy2001@gmail.com><i class="fas fa-envelope"></i></a>
 
-* A link to my personal webiste : <a href = "https://somjitroysr.netlify.app/"><i class="fas fa-blog"></i></a>
+* A link to my personal webiste : <a href = "https://roy-sr-007.github.io/"><i class="fas fa-blog"></i></a>
