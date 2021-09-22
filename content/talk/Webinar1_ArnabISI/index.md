@@ -15,10 +15,10 @@ links:
   icon_pack: fab
   name: YouTube
   url: https://www.youtube.com/channel/UCBxZanUU8pJ78PhZx22ufdQ
-#- icon: linkedin
-#  icon_pack: fab
-#  name: LinkedIn
-#  url: https://github.com/apreshill/bakeoff
+- icon: linkedin
+  icon_pack: fab
+  name: LinkedIn
+  url: https://www.linkedin.com/feed/update/urn:li:activity:6846342930811113472
 - icon: facebook
   icon_pack: fab
   name: Facebook
