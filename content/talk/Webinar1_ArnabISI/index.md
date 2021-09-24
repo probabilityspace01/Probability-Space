@@ -14,7 +14,7 @@ links:
 - icon: youtube
   icon_pack: fab
   name: YouTube
-  url: https://www.youtube.com/channel/UCBxZanUU8pJ78PhZx22ufdQ
+  url: https://youtu.be/gPEfCv7yRYM
 - icon: linkedin
   icon_pack: fab
   name: LinkedIn
