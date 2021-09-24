@@ -4,8 +4,8 @@ cascade:
   author: The Probability Space Team @probabilityspace01
   show_author_byline: true
   show_comments: false
-  show_post_date: true
-  show_post_time: true
+  show_post_date: false
+  show_post_time: false
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent talks
