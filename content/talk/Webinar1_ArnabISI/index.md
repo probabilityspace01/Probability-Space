@@ -29,9 +29,11 @@ subtitle: A talk by Prof. Arnab Chakraborty, ISI Kolkata.
 title: The Banach-Tarski Paradox
 ---
 
-![](poster.png)
-
 This is our first webinar, where Prof. Arnab Chakraborty of Indian Statistical Institute, Kolkata will be speaking on '*The Banach Tarski Paradox*'.
+
+---
+![](poster.png)
+---
 
 Have we ever wondered, why the axiom of "**Countable Additivity**" is so crucial while defining Probability Measure (or while extending any finite measure)?
 
