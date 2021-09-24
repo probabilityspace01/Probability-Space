@@ -43,7 +43,6 @@ Have we ever wondered, why the axiom of "**Countable Additivity**" is so crucial
 
 In our opening webinar, we will hear about the usung significance of Countable Additivity through one of the most perplexing paradoxes.
 
-So we invite all of you to attend this session, being live steamed on YouTube, the link to which is provided below.
 
 ### Abstract
 
