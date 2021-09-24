@@ -2,8 +2,8 @@
 #author: Dr. Arnab Chakraborty
 #categories:
 #- meetup
-date: "2021-09-24T15:00:59-06:00"
-date_end: "2021-09-25T16:10:59-06:00"
+date: "2021-09-24T15:00:00"
+#date_end: "2021-09-25T16:10:59-06:00"
 draft: false
 event: Online Webinar 
 event_url: https://www.youtube.com/channel/UCBxZanUU8pJ78PhZx22ufdQ
@@ -27,11 +27,20 @@ links:
   icon_pack: fab
   name: Slides
   url: https://drive.google.com/file/d/1yb93270lj9gFhtkmuNKQHuAZBkTjn1Oy/view?usp=sharing
-location: Youtube
+#location: Youtube
 show_post_time: false
 subtitle: A talk by Prof. Arnab Chakraborty, ISI Kolkata.
 title: The Banach-Tarski Paradox
 ---
+
+### Event Details
+
+> Date: 24th Septmber, 2021
+
+> Time: 3:00 PM (IST)
+
+> Platform: [<i class="fab fa-youtube"></i> Yotube](https://www.youtube.com/channel/UCBxZanUU8pJ78PhZx22ufdQ) 
+
 
 This is our first webinar, where Prof. Arnab Chakraborty of Indian Statistical Institute, Kolkata will be speaking on '*The Banach Tarski Paradox*'.
 
@@ -51,13 +60,6 @@ Can you split a ball into finitely many pieces, refit them, and produce two ball
 
 We shall present the proof with pictures. We shall lightly touch upon the implication of this theorem on measure theory. *Knowledge of measure theory is not a pre-requisite, though!*
 
-### Event Details
-
-> Date: 24th Septmber, 2021
-
-> Time: 3:00 PM (IST)
-
-> Platform: [<i class="fab fa-youtube"></i> Yotube](https://www.youtube.com/channel/UCBxZanUU8pJ78PhZx22ufdQ) 
 
 ---
 
