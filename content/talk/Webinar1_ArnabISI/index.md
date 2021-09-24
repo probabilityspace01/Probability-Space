@@ -2,8 +2,8 @@
 #author: Dr. Arnab Chakraborty
 #categories:
 #- meetup
-date: "2021-09-24"
-#date_end: "2021-09-24T16:10:59-06:00"
+date: "2021-09-24T15:00:59-06:00"
+date_end: "2021-09-24T16:10:59-06:00"
 draft: false
 event: Online Webinar 
 event_url: https://www.youtube.com/channel/UCBxZanUU8pJ78PhZx22ufdQ
@@ -23,6 +23,10 @@ links:
   icon_pack: fab
   name: Facebook
   url: https://fb.me/e/37mfzTNm2?ti=wa
+- icon: slideshare
+  icon_pack: fab
+  name: Slides
+  url: https://drive.google.com/file/d/1yb93270lj9gFhtkmuNKQHuAZBkTjn1Oy/view?usp=sharing
 location: Youtube
 show_post_time: false
 subtitle: A talk by Prof. Arnab Chakraborty, ISI Kolkata.
