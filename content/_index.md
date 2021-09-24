@@ -2,7 +2,7 @@
 #action_label: Read More &rarr;
 #action_link: /about
 #action_type: text
-description: We are coming up with our first talk session on the Banach-Tarski Paradox by Prof. Arnab Chakraborty of ISI, Kolkata on 24th September, 2021 @ 3:00 PM. Visit the Sample Space section to know more!
+description: We. Visit the Sample Space section to know more and refer to the slides used during the webinar!
 image_left: true
 images:
 - img/PS_Logo.png
