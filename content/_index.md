@@ -2,7 +2,7 @@
 #action_label: Read More &rarr;
 #action_link: /about
 #action_type: text
-description: We. Visit the Sample Space section to know more and refer to the slides used during the webinar!
+description: Our first webinar on The Banach-Tarski Paradox by Prof. Arnab Chakraborty, ISI Kolkata has been successfully completed. Visit the Sample Space section to know more and refer to the slides used during the webinar!
 image_left: true
 images:
 - img/PS_Logo.png
