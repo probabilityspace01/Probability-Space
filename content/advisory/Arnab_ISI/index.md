@@ -8,7 +8,7 @@ date: "2021-09-10"
 draft: false
 excerpt: Professor Chakraborty is from the Applied Statistics Unit of Indian Statistical Insitute (ISI), Kolkata, where he is considered as one of most eminent figures in the field of Probability, Statistics and Mathematics.  
 layout: single
-#subtitle: Stat, Math & Code.
+subtitle: Applied Statistics Unit (ASU), ISI Kolkata.
 tags:
 - hugo-site
 title: Dr. Arnab Chakraborty
