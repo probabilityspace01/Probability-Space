@@ -20,8 +20,8 @@ sidebar:
   text_link_label: ""
   text_link_url: ""
   title: A Sidebar for Your Projects
-title: The Team at a glance
-subtitle: The ones behind Probability Space.
+title: Advisory Committee
+subtitle: The personalities acting as the backbone of the club!
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
