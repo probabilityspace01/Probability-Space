@@ -61,3 +61,9 @@ Interests: **Algorithms**, **Numerical Linear Algebra**, **Deep Learning** and *
 > Pursuing MSc. Statistics from IIT Kanpur, having interests in **Regression Analysis**  and **Biostatistics**.
 
 ---
+
+### * Abhishek Chakraborty : Member ID - \\(\Omega\mathbb{F}\mathbb{P}109\\)
+
+> Graduated from Asutosh College, 2021. My interests are **Statistical Inference**, **Probability Theory**, **Survival Analysis** and **Statistical Modelling**.
+
+---
