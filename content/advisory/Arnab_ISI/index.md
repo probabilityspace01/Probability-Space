@@ -1,5 +1,5 @@
 ---
-#author: Somjit Roy
+#author:
 #categories:
 #- Theme Features
 #- R
