@@ -16,7 +16,6 @@ title: Dr. Arnab Chakraborty
 
 ---
 
-
 We as a club, are fortunate enough to have Professor Arnab Chakraborty as one of our advisors and earnestly seek his guidance and supervision as we embark upon a journey of research in Statistical and Probabilistic avenues.
 
 [Here](https://www.isical.ac.in/~arnabc/) is a link to Professor Chakraborty's home page, where he has showcased few among an array of his excellent works and teachings.
