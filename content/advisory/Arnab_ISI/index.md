@@ -16,7 +16,7 @@ title: Dr. Arnab Chakraborty
 
 ---
 
-An introduction to sir, would in no way be complete, as to us (the students), he is always an inspiration. Localizing his research interests to a certain field would be very difficult, as we have seen sir to master the art of teaching in almost each and every domain concerned to Mathematics, Statistics and Probability.
+An introduction of sir, would in no way be complete, as to us (the students), he is always an inspiration. Localizing his research interests to a certain field would be very difficult, as we have seen sir to master the art of teaching in almost each and every domain concerned to Mathematics, Statistics and Probability.
 
 We as a club, are fortunate enough to have him as one of our advisors and earnestly seek his guidance and supervision as we embark upon a journey of research in Statistical and Probabilistic avenues.
 
