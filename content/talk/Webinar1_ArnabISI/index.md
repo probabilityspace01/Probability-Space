@@ -27,7 +27,7 @@ links:
   icon_pack: fab
   name: Slides
   url: https://drive.google.com/file/d/1yb93270lj9gFhtkmuNKQHuAZBkTjn1Oy/view?usp=sharing
-#location: Youtube
+location: Youtube
 show_post_time: false
 subtitle: A talk by Prof. Arnab Chakraborty, ISI Kolkata.
 title: The Banach-Tarski Paradox
@@ -49,15 +49,6 @@ In our opening webinar, we will hear about the usung significance of Countable A
 Can you split a ball into finitely many pieces, refit them, and produce two balls, both identical to the original one? With magic, yes. With math? Well, yes again. This is the famous **Banach-Tarski theorem**, a theorem so mind-boggling, that it has earned the nickname **Banach-Tarski Paradox**. The proof requires more than basic arguments involving *countability* and *uncountability*.
 
 We shall present the proof with pictures. We shall lightly touch upon the implication of this theorem on measure theory. *Knowledge of measure theory is not a pre-requisite, though!*
-
-### Event Details
-
-> Date: 24th Septmber, 2021
-
-> Time: 3:00 PM (IST)
-
-> Platform: [<i class="fab fa-youtube"></i> Yotube](https://www.youtube.com/channel/UCBxZanUU8pJ78PhZx22ufdQ) 
-
 
 ---
 
