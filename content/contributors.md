@@ -6,7 +6,7 @@ show_title_as_headline: true
 title: Contributors
 ---
 
-Thank you to all the folks who have contributed both technical and creative skills, facilitating in the successful hosting of the website:
+We would like to sincerely thank the following people for their humble contributions towards the success of our club:
 
 + September 24, 2021 : [Dr.Arnab Chakraborty](https://www.isical.ac.in/~arnabc/), Applied Statistics Unit, Indian Statistical Institute (ISI), Kolkata, gave the opening talk on **The Banach-Tarski Paradox** at our club. We want to thank him for his time and sharing his ideas on the paradox, eventually hosting a great session of discussion.
 
