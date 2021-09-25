@@ -20,7 +20,7 @@ An introduction of sir, would in no way be complete, as to us (the students), he
 
 We as a club, are fortunate enough to have him as one of our advisors and earnestly seek his guidance and supervision as we embark upon a journey of research in Statistical and Probabilistic avenues.
 
-[Here](https://www.isical.ac.in/~arnabc/) is a link to Professor Chakraborty's home page, where he has showcased few of his excellent works and teachings.
+[Here](https://www.isical.ac.in/~arnabc/) is a link to Professor Chakraborty's home page, where he has showcased few among an array of his excellent works and teachings.
 
 (*PS: We would strongly and positively suggest the students of both mathematics as well as statistics to visit his homepage, as there are innumerable resources listed there, which would incredibly help towards building an iron-clad concept and base on both statistics and mathematics. Especially his books are of great help and guidance to the entire community of students, as sir gives a special touch of explaining things in Bengali.*)
 
