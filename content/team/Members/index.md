@@ -67,3 +67,9 @@ Interests: **Algorithms**, **Numerical Linear Algebra**, **Deep Learning** and *
 > Graduated from Asutosh College, 2021. My interests are **Statistical Inference**, **Probability Theory**, **Survival Analysis** and **Statistical Modelling**.
 
 ---
+
+### * Vishal Routh : Member ID - \\(\Omega\mathbb{F}\mathbb{P}463\\)
+
+> Pursuing M.Stat from ISI Kolkata. Major researcj interests are **Stochastic Processes** , **Measure Theory**, **Martingale Theory**. It is a great platform to share and get innovative  ideas on the current research topics.  
+
+---
