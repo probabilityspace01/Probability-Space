@@ -70,6 +70,6 @@ Interests: **Algorithms**, **Numerical Linear Algebra**, **Deep Learning** and *
 
 ### * Vishal Routh : Member ID - \\(\Omega\mathbb{F}\mathbb{P}463\\)
 
-> Pursuing M.Stat from ISI Kolkata. Major researcj interests are **Stochastic Processes** , **Measure Theory**, **Martingale Theory**. It is a great platform to share and get innovative  ideas on the current research topics.  
+> Pursuing M.Stat from ISI Kolkata. Major research interests are **Stochastic Processes** , **Measure Theory** and **Martingale Theory**. It is a great platform to share and get innovative  ideas on the current research topics.  
 
 ---
