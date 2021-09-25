@@ -16,13 +16,10 @@ title: Dr. Arnab Chakraborty
 
 ---
 
-An introduction of sir, would in no way be complete, as to us (the students), he is always an inspiration. Localizing his research interests to a certain field would be very difficult, as we have seen sir to master the art of teaching in almost each and every domain concerned to Mathematics, Statistics and Probability.
 
-We as a club, are fortunate enough to have him as one of our advisors and earnestly seek his guidance and supervision as we embark upon a journey of research in Statistical and Probabilistic avenues.
+We as a club, are fortunate enough to have Professor Arnab Chakraborty as one of our advisors and earnestly seek his guidance and supervision as we embark upon a journey of research in Statistical and Probabilistic avenues.
 
 [Here](https://www.isical.ac.in/~arnabc/) is a link to Professor Chakraborty's home page, where he has showcased few among an array of his excellent works and teachings.
-
-(*PS: We would strongly and positively suggest the students of both Mathematics as well as Statistics to visit his homepage, as innumerable resources listed there would facilitate in building an iron-clad concept and base. Especially his books are of great help and guidance to the entire community of students, as sir gives a special touch of explaining things in Bengali.*)
 
 We as students have sincerely followed sir and his teachings (books, online YouTube videos, etc.) on varied topics of Probability and Statistics, some of which are as follows:
 
