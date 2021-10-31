@@ -19,9 +19,7 @@ title: Sigma Field Vol I - December, 2021
 We are happy to announce that Probability Space is starting a bimonthly magazine called  **Sigma Field**.
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true"> 
-    <source src="static/img/PS_Mag.mp4" type="video/mp4">
-  </video>
+  <iframe src="https://drive.google.com/file/d/1fFwalOZaTkUu6im0eZ22AXEYLr9Die51/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 The structure of the magazine is as follows : 
