@@ -29,14 +29,15 @@ The structure of the magazine is as follows :
 
 Almost all problems present here will be original problems contributed by the members. The solution to these problems will be uploaded on our Website.
 
-Those who want to contribute any article or problem , kindly send them to:[probabilityspace01@gmail.com](mailto:probabilityspace01@gmail.com)
+**Those who want to contribute any article or problem , kindly send them to:[probabilityspace01@gmail.com](mailto:probabilityspace01@gmail.com)**
 
 Note: There have been some articles written before on specific classical problems. All such articles will be put together in a single sub-section, in "Probability".
 
-All the members are encouraged to write articles , not only on specific classical problems, but other aspects of probability or applied sciences as well. If needed/interested, one may go through the articles already published on our website. 
+All the members are encouraged to write articles , not only on specific classical problems, but other aspects of probability or applied sciences as well. If needed/interested, one may go through the articles already published on our website, for that kindly visit the [Sigma Field Section](https://probability-space.netlify.app/blog/).
 
 One person can write more than one article. It is a must to present your references as well, in the article.
 
+For any further updates please free to connect with us via mail, LinkedIn or Facebook, the links to which you can find @ our website. 
 
 ---
 
