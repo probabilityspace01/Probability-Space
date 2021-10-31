@@ -6,7 +6,7 @@
 #- package
 date: "2021-09-10"
 draft: false
-excerpt: This is the first volume of our bimonthly magazine named **Sigma Field**
+excerpt: This is the first volume of our bimonthly magazine named **Sigma Field**.
 layout: single
 subtitle: A Bimonthly Magazine
 tags:
