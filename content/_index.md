@@ -2,7 +2,7 @@
 #action_label: Read More &rarr;
 #action_link: /about
 #action_type: text
-description: We will be coming up with the first installment of our Monthly Magazine, this second week of November. Stay tuned!
+description: We will be coming up with the first installment of our Bimonthly Magazine, on the second week of December, 2021. Stay tuned! ![](PS_Mag.mp4)
 image_left: true
 images:
 - img/PS_Logo.png
