@@ -15,11 +15,11 @@ show_post_date: false
 show_post_thumbnail: true
 sidebar:
   author: The Probability Space Team @probabilityspace01
-  description: "The Team"
+  description: "Editor: Spandan Ghoshal, Asst.Editor: Samya Praharaj, Coordinators: Medhalakshmi Acharya & Srinjoy Chaudhuri, Tech Lead: Somjit Roy & Pravat Kumar Hati."
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: A Sidebar for Your Projects
+  title: The Magazine Committee @Probability Space
 title: Probability Space's Magazine - Sigma Field
 subtitle:
 ---
