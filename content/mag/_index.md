@@ -15,7 +15,7 @@ show_post_date: false
 show_post_thumbnail: true
 sidebar:
   author: The Probability Space Team @probabilityspace01
-  description: "Editor: Spandan Ghoshal, Asst.Editor: Samya Praharaj, Coordinators: Medhalakshmi Acharya & Srinjoy Chaudhuri, Tech Lead: Somjit Roy & Pravat Kumar Hati."
+  description: "Editor: Spandan Ghoshal, Asst.Editor: Samya Praharaj, Coordinators: Medhalakshmi Acharya & Srinjoy Chaudhuri, Tech Lead: Somjit Roy & Pravat Kumar Hati. Please go through the topics and the rules for submission in Sigma Field Vol I, December 2021."
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""

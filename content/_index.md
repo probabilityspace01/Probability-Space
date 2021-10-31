@@ -2,7 +2,7 @@
 #action_label: Read More &rarr;
 #action_link: /about
 #action_type: text
-description: We will be coming up with the first installment of our Bimonthly Magazine, on the second week of December, 2021. Stay tuned!
+description: We will be coming up with the first installment of our Bimonthly Magazine, on the second week of December, 2021. For further details visit the [Magazine Section](https://probability-space.netlify.app/mag/).
 image_left: true
 images:
 - img/PS_Logo.png
