@@ -37,7 +37,7 @@ All the members are encouraged to write articles , not only on specific classica
 
 One person can write more than one article. It is a must to present your references as well, in the article.
 
-For any further updates please free to connect with us via mail, LinkedIn or Facebook, the links to which you can find @ our website. 
+For any further updates or queries please feel free to connect with us via mail, LinkedIn or Facebook, the links to which you can find @ our website. 
 
 ---
 
