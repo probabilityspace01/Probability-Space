@@ -6,7 +6,7 @@
 #- package
 date: "2021-09-10"
 draft: false
-excerpt: A Graduate in Statistics from St.Xavier's College, Kolkata, having interests in Theoretical/Applied Probability and Statistics including Random Walks, Markov Chains, Design of Experiments, Machine Learning, etc.
+excerpt: A PostGrad in Statistics @ Department of Statistics, University of Calcutta, having interests in Theoretical/Applied Probability and Statistics - Random Walks, Markov Chains, Design of Experiments || Computational Statistics - Simulation, Data Science and ML || Quantum Cryptography, Combinatorial Designs.
 layout: single
 #subtitle: Stat, Math & Code.
 tags:
@@ -20,7 +20,9 @@ title: W. Somjit Roy - Core Member, Editor
 
 ### Academic Qualifications
 
-* MSc. in Computer Science from National Institute of Technology (NIT), Trichy : 2021 - 2023.
+* Master of Science in Statistics Hons. from Department of Statistics, University of Calcutta : 2021 - 2023.
+
+* MSc. in Computer Science from National Institute of Technology (NIT), Trichy : 2021 - 2021.
 
 * Bachelor of Science (BSc.) in Statistics Honours from St.Xavier's College (Autonomous), Kolkata : 2018 - 2021.
 
